@@ -1,0 +1,501 @@
+features_id,id,floorCount,architectureType,exteriorType,foundationType,roofType,fireplace,unitCount,garage,garageSpaces,garageType,cooling,coolingType,heating,heatingType,roomCount,pool,fireplaceType,poolType,squareFootage,bedrooms,bathrooms
+0,"7420-FM-2673,-Canyon-Lake,-TX-78133",,,,,,,,,,,,,,,,,,,,,
+1,"1350-Hinch-Dr,-New-Braunfels,-TX-78132",1.0,,,,,,,,,,,,,,,,,,1112.0,1.0,1.0
+2,"1200-Hinch-Dr,-New-Braunfels,-TX-78132",1.0,Mobile Home,,,,,,,,,,,,,,,,,980.0,1.0,1.0
+3,"1340-Hinch-Dr,-New-Braunfels,-TX-78132",2.0,,Wood,Slab / Mat / Raft,Metal,,,,,,,,,,,,,,5548.0,,
+4,"1331-Hinch-Dr,-New-Braunfels,-TX-78132",1.0,,Stone Veneer,Slab,Composition Shingle,True,1.0,,,,,,,,,,,,2071.0,4.0,1.0
+5,"187-Madrona-Dr,-New-Braunfels,-TX-78132",,,,,,,,,,,,,,,,,,,,,
+6,"1171-Hinch-Dr,-New-Braunfels,-TX-78132",1.0,Mobile Home,,,,,1.0,True,4.0,Garage,,,,,,,,,3192.0,2.0,2.0
+7,"1501-Old-Sattler-Rd,-New-Braunfels,-TX-78132",2.0,,Wood,Slab / Mat / Raft,Composition Shingle,True,1.0,True,4.0,Detached,,,,,,,,,2195.0,,2.0
+8,"1250-Hinch-Dr,-New-Braunfels,-TX-78132",,,,,,,,,,,,,,,,,,,,,
+9,"7106-FM-2673,-Canyon-Lake,-TX-78133",,,,,,,,,,,,,,,,,,,,1.0,1.0
+10,"7034-FM-2673,-Canyon-Lake,-TX-78133",1.0,,Aluminum / Vinyl Siding,Slab / Mat / Raft,Metal,,1.0,True,,Detached,,,,,,,,,2550.0,,1.0
+11,"5509-Roanwood,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+12,"5528-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,912.0,2.0,1.5
+13,"5523-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,800.0,2.0,1.0
+14,"5721-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,2.0,2.0
+15,"5519-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,800.0,2.0,1.0
+16,"5527-Lochmoor,---2,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+17,"5520-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,983.0,2.0,2.0
+18,"5512-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,912.0,2.0,2.0
+19,"5516-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,850.0,2.0,1.0
+20,"5511-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+21,"5705-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+22,"5315-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1191.0,3.0,1.5
+23,"7020-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,1100.0,3.0,2.0
+24,"7002-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+25,"5713-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+26,"5223-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1364.0,3.0,2.0
+27,"5319-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1714.0,3.0,2.0
+28,"5307-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1714.0,3.0,2.0
+29,"7024-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+30,"5310-Lake,-Golden,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1200.0,2.0,1.5
+31,"5327-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1552.0,3.0,2.0
+32,"5515-Roanwood,-San-Antonio,-TX-78244",2.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1501.0,3.0,2.5
+33,"5508-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1406.0,3.0,2.0
+34,"5523-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,800.0,2.0,1.0
+35,"5507-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1696.0,4.0,2.0
+36,"6831-Quail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,6.0,,,,1346.0,4.0,2.0
+37,"5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1063.0,3.0,1.5
+38,"5307-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,True,,,1203.0,3.0,2.0
+39,"5403-Park-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1851.0,3.0,1.5
+40,"5306-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1064.0,3.0,1.5
+41,"5407-Park-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1910.0,3.0,2.5
+42,"5414-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,True,,,1077.0,3.0,1.5
+43,"5414-Lake-Grove-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1282.0,3.0,2.0
+44,"5526-Grand-Lake-Dr,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,,Attached,True,Central,True,Forced Air,7.0,,,,2016.0,4.0,2.0
+45,"5410-Lake-Grove-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1170.0,3.0,2.0
+46,"5527-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,2.0,,,,True,Central,True,Forced Air,12.0,,,,3202.0,8.0,4.0
+47,"6830-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Metal,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1039.0,3.0,2.0
+48,"6826-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Mixed,True,Central,True,Forced Air,5.0,,,,1140.0,3.0,1.0
+49,"6834-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1213.0,3.0,2.0
+50,"5602-Crater-Lake-Dr,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Roll Tar & Gravel,,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1780.0,4.0,2.5
+51,"6847-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1511.0,3.0,1.5
+52,"6838-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Carport,True,Central,True,Forced Air,5.0,,,,1818.0,3.0,2.0
+53,"6842-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,3.0,Mixed,True,Central,True,Forced Air,5.0,,,,1308.0,3.0,2.0
+54,"6901-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1373.0,3.0,2.0
+55,"6839-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Roll Tar & Gravel,True,1.0,True,,Attached,True,Central,True,Forced Air,8.0,,,,2112.0,5.0,2.0
+56,"6915-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1865.0,3.0,2.0
+57,"6910-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,True,,,1428.0,3.0,2.0
+58,"6903-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1346.0,3.0,2.0
+59,"6915-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1714.0,3.0,2.0
+60,"6906-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1810.0,4.0,2.0
+61,"6930-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1232.0,3.0,2.0
+62,"6927-Trail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,2034.0,3.0,2.0
+63,"6925-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1220.0,3.0,2.0
+64,"6931-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,6.0,,,,1282.0,4.0,2.0
+65,"6926-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1492.0,3.0,2.0
+66,"6823-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1954.0,3.0,2.0
+67,"6826-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1450.0,3.0,2.0
+68,"5501-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1419.0,3.0,2.0
+69,"6827-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1600.0,3.0,2.0
+70,"5522-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1797.0,3.0,2.0
+71,"6835-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1432.0,3.0,2.0
+72,"6834-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1448.0,3.0,2.0
+73,"6830-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,,,,True,Central,True,Forced Air,5.0,,,,1968.0,3.0,2.0
+74,"6838-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1411.0,4.0,2.0
+75,"6831-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1450.0,3.0,2.0
+76,"6903-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,True,,,1456.0,3.0,2.0
+77,"6910-Moon-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1603.0,3.0,2.0
+78,"6838-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1217.0,4.0,2.0
+79,"6911-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1444.0,3.0,2.0
+80,"6839-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1391.0,3.0,2.0
+81,"7018-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,10.0,,,,1973.0,5.0,4.0
+82,"7022-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1824.0,4.0,2.0
+83,"5524-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,2.0,1.0
+84,"6919-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1571.0,3.0,2.0
+85,"6922-Moon-Lake-Dr,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1780.0,4.0,2.5
+86,"6826-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1618.0,3.0,2.0
+87,"6827-Still-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1667.0,3.0,2.5
+88,"6823-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1732.0,4.0,2.0
+89,"6819-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,Yes,,1515.0,3.0,2.0
+90,"6822-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1744.0,3.0,2.0
+91,"6902-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1492.0,3.0,2.0
+92,"6835-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1650.0,3.0,2.0
+93,"6903-Quail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,2478.0,4.0,2.0
+94,"6831-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1305.0,3.0,2.0
+95,"6830-Still-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,6.0,,,,1434.0,3.0,2.0
+96,"6906-Trail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1730.0,3.0,2.5
+97,"6907-Quail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1564.0,3.0,2.5
+98,"6906-Quail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1718.0,3.0,2.5
+99,"6905-Quail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1232.0,3.0,2.0
+100,"6903-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Mixed,True,Central,True,Forced Air,6.0,,,,1332.0,3.0,2.0
+101,"6911-Quail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1486.0,4.0,2.0
+102,"6910-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1486.0,4.0,2.0
+103,"6913-Quail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1492.0,3.0,2.0
+104,"6910-Quail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1467.0,3.0,2.5
+105,"6909-Quail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1174.0,3.0,2.0
+106,"5303-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,3.0,Mixed,True,Central,True,Forced Air,5.0,,,,1585.0,3.0,2.0
+107,"5418-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Metal,,1.0,,,,True,Central,True,Forced Air,5.0,,,,1872.0,3.0,1.5
+108,"5503-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,10.0,,,,1973.0,5.0,4.0
+109,"7006-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+110,"5402-Park-Lk,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+111,"5318-Lake,-Golden,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1828.0,3.0,2.5
+112,"5511-Roanwood,-San-Antonio,-TX-78244",1.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1332.0,3.0,2.0
+113,"5315-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1572.0,3.0,2.0
+114,"5512-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1500.0,3.0,2.0
+115,"5504-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Metal,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1409.0,3.0,2.0
+116,"5514-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1824.0,4.0,2.0
+117,"5319-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,6.0,,,,1150.0,4.0,1.5
+118,"5511-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,3202.0,2.0,1.0
+119,"5530-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1390.0,3.0,2.0
+120,"5519-Roanwood,-San-Antonio,-TX-78244",2.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,7.0,,,,1589.0,4.0,2.5
+121,"5709-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+122,"5717-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,987.0,2.0,1.0
+123,"5629-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+124,"5519-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,800.0,2.0,1.0
+125,"5515-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,800.0,2.0,1.0
+126,"5502-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,3.0,Mixed,True,Central,True,Forced Air,6.0,True,,,1444.0,3.0,2.0
+127,"5503-Roanwood,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,10.0,,,,1973.0,5.0,4.0
+128,"7014-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+129,"7012-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+130,"6921-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1314.0,3.0,2.0
+131,"5306-Lake,-Golden,-San-Antonio,-TX-78244",2.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,7.0,,,,2300.0,4.0,2.5
+132,"5310-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1620.0,3.0,2.0
+133,"5218-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,True,,Pool and Hot Tub / Spa,1514.0,3.0,2.0
+134,"5323-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1332.0,3.0,2.0
+135,"5411-Park-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1584.0,3.0,2.0
+136,"5302-Lake,-Golden,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,2028.0,3.0,2.0
+137,"5410-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1036.0,3.0,1.5
+138,"5402-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1036.0,3.0,1.5
+139,"5318-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Roll Tar & Gravel,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1542.0,3.0,1.5
+140,"5526-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1974.0,4.0,2.0
+141,"5311-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,,,,True,Central,True,Forced Air,5.0,,,,1344.0,3.0,1.5
+142,"5522-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1824.0,4.0,2.0
+143,"5520-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1650.0,3.0,2.0
+144,"5510-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1974.0,4.0,2.0
+145,"6907-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1352.0,3.0,2.0
+146,"6906-Moon-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1630.0,3.0,2.0
+147,"5507-Roanwood,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,10.0,,,,1973.0,5.0,4.0
+148,"6907-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1684.0,4.0,2.0
+149,"6914-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,True,,,1516.0,3.0,2.0
+150,"6918-Moon-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,,,,True,Central,True,Forced Air,7.0,,,,2163.0,4.0,2.0
+151,"6902-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,,,,True,Central,True,Forced Air,6.0,,,,2172.0,3.0,2.0
+152,"6835-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,,,,True,Central,True,Forced Air,5.0,,,,1795.0,3.0,2.0
+153,"6914-Moon-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1528.0,3.0,2.0
+154,"5515-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,800.0,2.0,1.0
+155,"6911-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1632.0,3.0,2.0
+156,"7026-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1824.0,4.0,2.0
+157,"6910-Indian-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1695.0,3.0,2.0
+158,"5505-Roanwood,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,987.0,2.0,1.0
+159,"7023-Atherton,-San-Antonio,-TX-78244",2.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1501.0,3.0,2.5
+160,"5518-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1974.0,4.0,2.0
+161,"6926-Moon-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1471.0,3.0,2.0
+162,"5603-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Brick / Stone,Slab / Mat / Raft,Asphalt,True,2.0,,,,True,Central,True,Forced Air,8.0,,,,3202.0,8.0,4.0
+163,"5530-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1824.0,4.0,2.0
+164,"6826-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1403.0,3.0,2.0
+165,"5532-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,912.0,2.0,1.0
+166,"6829-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Garage,True,Central,True,Forced Air,5.0,,,,1326.0,3.0,1.5
+167,"7028-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,1824.0,4.0,2.0
+168,"6827-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Metal,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1176.0,3.0,1.5
+169,"6822-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1218.0,3.0,2.0
+170,"6839-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1077.0,3.0,1.5
+171,"6823-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,,Garage,True,Central,True,Forced Air,6.0,,,,1326.0,3.0,1.5
+172,"6834-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1297.0,3.0,2.0
+173,"6835-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1036.0,3.0,1.5
+174,"6831-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,True,1.0,True,,Attached,True,Central,True,Forced Air,6.0,,,,1758.0,3.0,2.0
+175,"6906-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1445.0,3.0,2.0
+176,"6830-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,,Garage,True,Central,True,Forced Air,5.0,,,,1220.0,4.0,2.0
+177,"6902-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1440.0,4.0,2.0
+178,"6902-Quail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1593.0,3.0,2.0
+179,"6842-Twin-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1911.0,3.0,2.0
+180,"6914-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1232.0,3.0,2.0
+181,"6915-Quail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1730.0,3.0,2.5
+182,"6918-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1174.0,3.0,2.0
+183,"6843-Blue-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1036.0,3.0,1.5
+184,"6934-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,,Garage,True,Central,True,Forced Air,6.0,,,,1932.0,3.0,2.0
+185,"7004-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,10.0,,,,1973.0,5.0,4.0
+186,"6929-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1264.0,3.0,2.0
+187,"6911-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1712.0,3.0,2.0
+188,"6907-Trail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Aluminum / Vinyl Siding,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,6.0,,,,1527.0,3.0,2.0
+189,"6954-Lakeview-Dr,-San-Antonio,-TX-78244",,Multi-Unit Building,,Slab / Mat / Raft,Asphalt,,,True,2.0,Attached,True,Central,True,Forced Air,,,,,2606.0,6.0,6.0
+190,"7016-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,9.0,,,,2093.0,5.0,3.0
+191,"6922-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1232.0,3.0,2.0
+192,"6935-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,True,,Above-Ground Pool,1302.0,3.0,2.0
+193,"6919-Trail-Lk,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Garage,True,Central,True,Forced Air,5.0,,,,1302.0,3.0,2.0
+194,"5311-Lakebend-East-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Siding,Slab,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1332.0,3.0,2.0
+195,"7010-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,2.0,True,2.0,Attached,True,Central,True,Forced Air,10.0,,,,1973.0,5.0,4.0
+196,"7032-Atherton,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,1824.0,4.0,2.0
+197,"5314-Lake,-Golden,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,1.0,Attached,True,Central,True,Forced Air,6.0,,,,1304.0,3.0,2.0
+198,"7008-Atherton,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,2.0,True,2.0,Attached,True,Central,True,Forced Air,8.0,,,,1696.0,4.0,2.0
+199,"5503-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,,Garage,True,Central,True,Forced Air,5.0,,,,1847.0,3.0,2.0
+200,"5314-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1026.0,3.0,2.0
+201,"5322-Lake,-Golden,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1424.0,3.0,2.0
+202,"5516-Grand-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Roll Tar & Gravel,,1.0,True,2.0,Attached,True,Central,True,Forced Air,5.0,,,,1469.0,3.0,2.0
+203,"5418-Lake-Grove-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1162.0,3.0,1.0
+204,"5407-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,,1.0,,,,True,Central,True,Forced Air,5.0,,,,1513.0,3.0,2.0
+205,"5403-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Asbestos Shingle,Slab / Mat / Raft,Asphalt,True,1.0,,,,True,Central,True,Forced Air,6.0,,,,1436.0,4.0,1.5
+206,"5406-Shadow-Lake-Dr,-San-Antonio,-TX-78244",1.0,Contemporary,Stucco,Slab / Mat / Raft,Asphalt,,1.0,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,1036.0,4.0,1.5
+207,"5625-Lochmoor,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+208,"6914-Quail-Lk,-San-Antonio,-TX-78244",2.0,Contemporary,Wood,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,6.0,,,,1459.0,4.0,2.0
+209,"5607-Lochmoor,-San-Antonio,-TX-78244",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,2.0,,,,True,Central,True,Forced Air,8.0,,,,3202.0,8.0,4.0
+210,"5607-Lochmoor,---1,-San-Antonio,-TX-78244",,,,,,,,,,,,,,,,,,,,,
+211,"325-Sw-Trafalgar-Pkwy,-Cape-Coral,-FL-33991",1.0,Ranch,Stucco,,Asphalt,,,True,,Garage,True,Central,True,Forced Air,,,,,1272.0,3.0,2.0
+212,"6636-W-William-Cannon-Dr,-Austin,-TX-78735",,,,,,,,,,,,,,,,,,,,,
+213,"13529-Coleto-Creek-Trl,-Austin,-TX-78732",2.0,,,Slab / Mat / Raft,Composition Shingle,True,1.0,True,,Attached,True,Commercial,True,Central,,True,,Pool and Hot Tub / Spa,6040.0,6.0,5.0
+214,"7011-W-Parmer-Ln,-Austin,-TX-78729",,,,,,,,,,,,,,,,,,,,,
+215,"7001-S-Congress-Ave,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,,
+216,"8109-Wolf-Jaw-Cv,-Austin,-TX-78729",2.0,,Wood,Slab / Mat / Raft,,True,1.0,True,2.0,Garage,True,Central,True,Central,,,,,1896.0,4.0,2.0
+217,"5200-N-Lamar-Blvd,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,505.0,1.0,1.0
+218,"1301-W-5th-St,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,735.0,1.0,1.0
+219,"5120-Mansfield-View-Ct,-Austin,-TX-78732",2.0,,,Slab / Mat / Raft,Tile,True,1.0,True,2.0,Mixed,True,Commercial,True,Central,,True,,Pool and Hot Tub / Spa,5237.0,4.0,4.0
+220,"1044-Camino-Ln,-Costa,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,,
+221,"12300-Riata-Trace-Pkwy,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,,,
+222,"4913-Wing-Rd,-Austin,-TX-78749",1.0,,,Slab / Mat / Raft,Composition Shingle,True,1.0,True,1.0,Attached,True,Commercial,True,Central,,,,,1617.0,4.0,2.0
+223,"924-Cavalry-Ride-Trl,-Austin,-TX-78732",2.0,,,Slab / Mat / Raft,Composition Shingle,True,1.0,True,2.0,Attached,True,Commercial,True,Central,,,,,2860.0,4.0,3.0
+224,"2401-Manor-Rd,-Apt-209,-Austin,-TX-78722",1.0,Condo / Apartment,,,,,,,,,,,,,,,,,820.0,2.0,1.0
+225,"800-W-38th-St,-Austin,-TX-78705",,,,,,,,,,,,,,,,,,,,2.0,2.0
+226,"2426-E-6th-St,-Unit-242,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,1210.0,2.0,2.0
+227,"4811-Burnet-Rd,-Austin,-TX-78756",1.0,Multi-Unit Building,,Slab / Mat / Raft,Built-up (Layered Asphalt),,1.0,True,76.0,Parking Structure,,,,,,,,,42175.0,,1.0
+228,"1500-E-Riverside-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,2.0,2.0
+229,"8801-N-Fm-620-Rd,-Austin,-TX-78726",,,,,,,,,,,,,,,,,,,,,
+230,"2104-E-Anderson-Ln,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,1.0,1.0
+231,"7401-N-Lamar-Blvd,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,702.0,1.0,1.0
+232,"12430-Metric-Blvd,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,664.0,1.0,1.0
+233,"6500-Champion-Grandview-Way,-Austin,-TX-78750",,,,,,,,,,,,,,,,,,,950.0,1.0,1.0
+234,"2402-San-Gabriel-St,-Austin,-TX-78705",,,,,,,,,,,,,,,,,,,,,
+235,"360-Nueces-St,-Apt-1212,-Austin,-TX-78701",1.0,Condo / Apartment,,,,,1.0,,,,,,,,,,,,812.0,1.0,1.0
+236,"1621-E-6th-St,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,704.0,2.0,2.0
+237,"8600-N-Lamar-Blvd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,1.0
+238,"1911-Willow-Creek-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,860.0,1.0,1.0
+239,"1611-W-5th-St,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,1131.0,2.0,2.0
+240,"1720-W-Wells-Branch-Pkwy,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,,
+241,"13145-N-Hwy,-183,-Austin,-TX-78750",,,,,,,,,,,,,,,,,,,709.0,1.0,1.0
+242,"6607-Brodie-Ln,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,,
+243,"3816-S-Lamar-Blvd,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,1.0,1.0
+244,"2504-Huntwick-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,675.0,1.0,1.0
+245,"502-W-Longspur-Blvd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,615.0,1.0,1.0
+246,"1507-Kinney-Ave,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,,1.0
+247,"1100-Reinli-St,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,,1.0
+248,"1309-Zacharys-Way,-Austin,-TX-78748",1.0,,,Slab / Mat / Raft,Composition Shingle,,,True,1.0,Attached,True,Commercial,True,Central,,,,,1537.0,3.0,2.0
+249,"1034-Clayton-Ln,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,,2.0
+250,"11511-Metric-Blvd,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,658.0,1.0,1.0
+251,"1403-Norwalk-Ln,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,,2.0,2.0
+252,"811-E-11th-St,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,675.0,1.0,1.0
+253,"2029-E-7th-St,-Unit-134,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,782.0,1.0,1.0
+254,"5402-Ave-F,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,2577.0,6.0,3.5
+255,"2819-Foster-Ln,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,,,
+256,"13217-Vendrell-Dr,-Austin,-TX-78729",2.0,,Brick Veneer,Slab,,True,1.0,True,1.0,Garage,True,Central,True,Central,,,,,1763.0,3.0,2.5
+257,"1511-Faro-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,,1.0
+258,"1900-W-Saint-Johns-Ave-Unit-A,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,980.0,3.0,1.0
+259,"11402-Walnut-Ridge-Dr,-Unit-B,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,1781.0,2.0,2.0
+260,"12300-Hymeadow-Dr,-Austin,-TX-78750",,,,,,,,,,,,,,,,,,,,1.0,1.0
+261,"1908-W-Loop,-Apt-A,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,977.0,2.0,1.0
+262,"1900-Barton-Springs-Rd,-Unit-4041,-Austin,-TX-78704",1.0,Condo / Apartment,,,,,,,,,,,,,,,,,754.0,1.0,1.0
+263,"10122-Cassandra-Dr,-Austin,-TX-78717",1.0,,Brick Veneer,Slab / Mat / Raft,,True,1.0,True,1.0,Garage,True,Central,True,Central,,,,,2402.0,4.0,2.0
+264,"6263-Mcneil-Dr,-Austin,-TX-78729",,,,,,,,,,,,,,,,,,,697.0,1.0,1.5
+265,"8112-Siringo-Pass,-Austin,-TX-78749",2.0,,,Slab / Mat / Raft,Composition Shingle,True,1.0,True,1.0,Attached,True,Commercial,True,Central,,,,,1947.0,4.0,2.0
+266,"8000-Decker-Ln,-Austin,-TX-78724",,,,,,,,,,,,,,,,,,,,,
+267,"7920-San-Felipe-Blvd,-Austin,-TX-78729",,,,,,,,,,,,,,,,,,,,,
+268,"909-Great-Britain-Blvd,-Austin,-TX-78748",1.0,,,Slab / Mat / Raft,Composition Shingle,True,1.0,True,2.0,Attached,True,Commercial,True,Central,,,,,1377.0,3.0,2.0
+269,"1810-Adina-St,-Unit-B,-Austin,-TX-78721",,,,,,,,,,,,,,,,,,,1495.0,3.0,2.5
+270,"500-E-Riverside-Dr,-Apt-254,-Austin,-TX-78704",1.0,Condo / Apartment,,Slab / Mat / Raft,Composition Shingle,,1.0,,,,,,,,,,,,573.0,1.0,1.0
+271,"6503-Bluff-Springs-Rd,-Austin,-TX-78744",,,,,,,,,,,,,,,,,,,,1.0,1.0
+272,"8312-Fathom-Cir,-Austin,-TX-78750",,,,,,,,,,,,,,,,,,,,,
+273,"2320-Gracy-Farms-Ln,-Apt-233,-Austin,-TX-78758",1.0,Condo / Apartment,,,,,1.0,True,1.0,Detached,,,,,,,,,799.0,1.0,1.0
+274,"14100-Avery-Ranch-Blvd,-Unit-701,-Austin,-TX-78717",1.0,Condo / Apartment,Stone,Slab / Mat / Raft,Other,,1.0,True,1.0,Garage,True,Central,True,Central,,,,,1378.0,2.0,2.0
+275,"7224-Northeast-Dr,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,,
+276,"1624-E-6th-St,-Unit-233,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,1231.0,2.0,2.0
+277,"313-Brazos-St,-Unit-236,-Austin,-TX-78701",,,,,,,,,,,,,,,,,,,1271.0,2.0,2.0
+278,"8001-S-Ih,---35,-Austin,-TX-78744",,,,,,,,,,,,,,,,,,,,,
+279,"2505-Longview-St,-Austin,-TX-78705",,,,,,,,,,,,,,,,,,,,4.0,2.0
+280,"10926-Jollyville-Rd,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,,,
+281,"301-West-Ave,-Apt-3502,-Austin,-TX-78701",1.0,Condo / Apartment,,,,,,,,,,,,,,,,,1322.0,2.0,2.0
+282,"1781-Spyglass-Dr,-Austin,-TX-78746",,,,,,,,,,,,,,,,,,,655.0,1.0,1.0
+283,"12345-Lamplight-Village-Ave,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,728.0,1.0,1.0
+284,"9501-N-Fm-620-Rd,-Austin,-TX-78726",,,,,,,,,,,,,,,,,,,909.0,1.0,1.0
+285,"500-E-Anderson-Ln,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,,
+286,"7610-Cameron-Rd,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,,1.0
+287,"9617-Great-Hills-Trl,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,,,
+288,"2403-Gateshead-Cir,-Austin,-TX-78745",1.0,,,Slab / Mat / Raft,Metal,True,1.0,True,1.0,Carport,True,Commercial,True,Central,,,,,2079.0,4.0,1.0
+289,"625-E-Stassney-Ln,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,,
+290,"2302-E-William-Cannon-Dr,-Austin,-TX-78744",,,,,,,,,,,,,,,,,,,,2.0,2.0
+291,"3621-W-Slaughter-Ln,-Austin,-TX-78749",,,,,,,,,,,,,,,,,,,815.0,1.0,1.0
+292,"1200-Treadwell-St,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,701.0,1.0,1.0
+293,"4525-Guadalupe-St,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,1232.0,2.0,1.0
+294,"8805-N-Plaza-Dr,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,
+295,"111-Sandra-Muraida-Way,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,1079.0,1.0,1.5
+296,"600-E-53rd-St,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,,1.0,1.0
+297,"1624-E-6th-St,-Unit-12,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,434.0,,1.0
+298,"2201-Montopolis-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,750.0,1.0,1.0
+299,"1300-Pleasant-Valley-Rd-S,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,,
+300,"2800-Bartons-Bluff-Ln,-Austin,-TX-78746",,,,,,,,,,,,,,,,,,,907.0,2.0,2.0
+301,"1401-Enfield-Rd,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,,1.0,1.0
+302,"4017-Victory-Dr,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,,
+303,"8912-N-Lamar-Blvd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,1.0
+304,"10600-Jollyville-Rd,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,618.0,1.0,1.0
+305,"2201-Willow-Creek-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,655.0,1.0,1.0
+306,"4511-Dudmar-Dr,-Austin,-TX-78735",1.0,,,Slab / Mat / Raft,Composition Shingle,,1.0,True,2.0,Attached,True,Commercial,True,Central,,,,,1439.0,4.0,2.5
+307,"1600-Barton-Springs-Rd,-Unit-2404,-Austin,-TX-78704",1.0,Condo / Apartment,,,,,,,,,,,,,,True,,,946.0,2.0,2.0
+308,"6908-Colorado-Bluffs-Rd,-Austin,-TX-78744",1.0,,,Slab / Mat / Raft,Composition Shingle,,,True,1.0,Attached,True,Commercial,True,,,,,,1983.0,4.0,3.0
+309,"460-Bastrop-Hwy-S,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,981.0,3.0,2.0
+310,"1500-Scenic-Dr,-Apt-106,-Austin,-TX-78703",1.0,Condo / Apartment,,,,,1.0,,,,,,,,,,,,1292.0,2.0,2.5
+311,"7000-E-Ben-White-Blvd,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,2.0,2.0
+312,"3406-Barranca-Cir,-Austin,-TX-78731",2.0,,,Slab / Mat / Raft,Metal,True,1.0,True,2.0,Carport,True,Commercial,True,Central,,,,,3612.0,4.0,4.0
+313,"1003-Justin-Ln,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,,,
+314,"300-West-Ave,-Austin,-TX-78701",,,,,,,,,,,,,,,,,,,,,1.0
+315,"2016-Park-Bend-Dr,-Austin,-TX-78758",3.0,Multi-Unit Building,,Slab / Mat / Raft,Composition Shingle,True,2.0,,,,,,,,,,,,184900.0,,
+316,"6600-Ed-Bluestein-Blvd,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,500.0,1.0,1.0
+317,"515-E-Slaughter-Ln,-Austin,-TX-78744",,,,,,,,,,,,,,,,,,,819.0,1.0,1.0
+318,"127-E-Riverside-Dr,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,1184.0,2.0,2.0
+319,"1200-E-Parmer-Ln,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,
+320,"700-Hearn-St,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,,1.0,1.0
+321,"7601-Rialto-Blvd,-Austin,-TX-78735",,,,,,,,,,,,,,,,,,,,,
+322,"2200-S-Pleasant-Valley-Rd,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,0.0,1.0
+323,"15510-Ranch-Road-620-Rd,-Austin,-TX-78717",,,,,,,,,,,,,,,,,,,,,
+324,"8701-Bluffstone-Cv,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,,,
+325,"14100-Thermal-Dr,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,,
+326,"2900-Sunridge-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,,
+327,"5605-Springdale-Rd,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,1050.0,2.0,2.0
+328,"8617-Spicewood-Springs-Rd,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,,,
+329,"8519-Cahill-Dr,-Austin,-TX-78729",,,,,,,,,,,,,,,,,,,,,
+330,"8715-W-Hwy,-71,-Austin,-TX-78735",,,,,,,,,,,,,,,,,,,,,
+331,"4100-W-Slaughter-Ln,-Austin,-TX-78749",,,,,,,,,,,,,,,,,,,,1.0,1.0
+332,"9900-Mcneil-Dr,-Austin,-TX-78750",,,,,,,,,,,,,,,,,,,747.0,1.0,1.0
+333,"7201-S-Congress-Ave,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,,
+334,"1300-Spyglass-Dr,-Austin,-TX-78746",,,,,,,,,,,,,,,,,,,,,
+335,"8615-Rockwood-Ln,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,,1.0,1.0
+336,"11011-Domain-Dr,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,1053.0,1.0,1.0
+337,"815-W-Slaughter-Ln,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,,,
+338,"12118-Walnut-Park-Xing,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,1005.0,2.0,1.0
+339,"8001-Highway,-71-W,-Austin,-TX-78736",,,,,,,,,,,,,,,,,,,,2.0,
+340,"10050-Great-Hills-Trl,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,804.0,1.0,1.0
+341,"2202-2204-Enfield-Rd,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,,2.0,1.0
+342,"1845-River-Crossing-Cir,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,1076.0,2.0,1.0
+343,"201-Lavaca-St,-Austin,-TX-78701",,,,,,,,,,,,,,,,,,,856.0,1.0,1.0
+344,"5417-S-Mo-Pac-Expy,-Austin,-TX-78749",,,,,,,,,,,,,,,,,,,,,
+345,"2900-Manor-Rd,-Austin,-TX-78722",,,,,,,,,,,,,,,,,,,,,
+346,"7200-Duval-St,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,,1.0
+347,"8405-Old-Bee-Caves-Rd,-Austin,-TX-78735",,,,,,,,,,,,,,,,,,,1083.0,2.0,2.0
+348,"1127-Pearl-Retreat-Ln,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,
+349,"12101-N-Lamar-Blvd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,1235.0,2.0,2.0
+350,"2310-Wickersham-Ln,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,148100.0,,
+351,"1717-Toomey-Rd,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,761.0,1.0,1.0
+352,"3501-Shoreline-Dr,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,782.0,1.0,1.0
+353,"1143-Shady-Ln,-Austin,-TX-78721",,,,,,,,,,,,,,,,,,,,,1.0
+354,"14000-Renaissance-Ct,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,1.0,1.0
+355,"11301-Farrah-Ln,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,,,
+356,"1521-Reagan-Hill-Dr,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,,1.0
+357,"9301-Old-Bee-Caves-Rd,-Austin,-TX-78735",,,,,,,,,,,,,,,,,,,1575.0,3.0,3.0
+358,"12820-N-Lamar-Blvd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,684.0,2.0,2.0
+359,"13201-Legendary-Dr,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,668.0,1.0,1.0
+360,"4716-Duval-Rd,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,865.0,1.0,1.0
+361,"2126-Goodrich-Ave,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,,
+362,"5705-Diehl-Trl,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,750.0,1.0,1.0
+363,"507-Pressler-St,-Austin,-TX-78703",,,,,,,,,,,,,,,,,,,1236.0,2.0,2.0
+364,"11500-Jollyville-Rd,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,,,
+365,"5020-Manor-Rd,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,3.0,2.0
+366,"9009-N-Fm-620-Rd,-Austin,-TX-78726",,,,,,,,,,,,,,,,,,,800.0,1.0,1.5
+367,"3101-Wells-Branch-Pkwy,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,2.0,2.0
+368,"1401-Saint-Edwards-Dr,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,,
+369,"304-E-William-Cannon-Dr,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,,
+370,"3101-Shoreline-Dr,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,,
+371,"12100-Metric-Blvd,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,,1.0,1.0
+372,"600-Barwood-Park,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,
+373,"1909-Rio-Grande-St,-Austin,-TX-78705",,,,,,,,,,,,,,,,,,,,,
+374,"3400-Ranch-Rd,-620-S,-Austin,-TX-78738",,,,,,,,,,,,,,,,,,,,,
+375,"1630-E-6th-St,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,466.0,1.0,1.0
+376,"2810-Hemphill-Park,-Austin,-TX-78705",,,,,,,,,,,,,,,,,,,,,
+377,"3201-Duval-Rd,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,658.0,1.0,1.0
+378,"4310-Ave-B,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,,0.0,1.0
+379,"10301-Burnet-Rd,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,650.0,1.0,1.0
+380,"5400-N-Lamar-Blvd,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,,1.0,1.0
+381,"2425-Cromwell-Cir,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,585.0,1.0,1.0
+382,"2430-Cromwell-Cir,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,787.0,1.0,1.0
+383,"12435-Dessau-Rd,-Austin,-TX-78754",,,,,,,,,,,,,,,,,,,,,
+384,"1000-E-5th-St,-Austin,-TX-78702",,,,,,,,,,,,,,,,,,,667.0,2.0,1.0
+385,"1901-Onion-Creek-Pkwy,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,909.0,1.0,1.0
+386,"10015-Lake-Creek-Pkwy,-Austin,-TX-78729",,,,,,,,,,,,,,,,,,,901.0,2.0,1.0
+387,"12000-Dessau-Rd,-Austin,-TX-78754",,,,,,,,,,,,,,,,,,,650.0,1.0,1.0
+388,"3505-S-Lamar-Blvd,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,398.0,2.0,1.0
+389,"8225-N-Fm-620-Rd,-Austin,-TX-78726",,,,,,,451.0,,,,,,,,,,,,,,
+390,"1915-Wells-Branch-Pkwy,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,,
+391,"12638-Ridgeline-Blvd,-Austin,-TX-78613",,,,,,,,,,,,,,,,,,,,,
+392,"3600-Greystone-Dr,-Austin,-TX-78731",,,,,,,,,,,,,,,,,,,,,
+393,"5708-W-Parmer-Ln,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,785.0,1.0,1.0
+394,"1215-Slaughter-Ln-W,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,,,
+395,"10727-Domain-Dr,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,758.0,1.0,1.0
+396,"10505-S-Interstate-Hwy,-35,-Austin,-TX-78747",,,,,,,,,,,,,,,,,,,,1.0,1.0
+397,"833-Fairfield-Dr,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,793.0,2.0,1.0
+398,"4520-Bennett-Ave,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,,1.0,1.0
+399,"12041-Dessau-Rd,-Austin,-TX-78754",,,,,,,,,,,,,,,,,,,,,
+400,"11210-FM-2222,-Austin,-TX-78730",,,,,,,,,,,,,,,,,,,,,
+401,"4505-Duval-St,-Austin,-TX-78751",,,,,,,,,,,,,,,,,,,,1.0,1.0
+402,"1801-Fortview-Rd,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,1.0,1.0
+403,"1900-Onion-Creek-Pkwy,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,,,
+404,"300-Ferguson-Dr,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,700.0,1.0,1.0
+405,"5010-S-Congress-Ave,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,1.0,1.0
+406,"6280-Mcneil-Ranch-Dr,-Austin,-TX-78729",,,,,,,,,,,,,,,,,,,,,
+407,"2900-Century-Park-Blvd,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,,0.0,
+408,"4800-Steiner-Ranch-Blvd,-Austin,-TX-78732",,,,,,,,,,,,,,,,,,,,,
+409,"1620-E-Riverside-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,631.0,2.0,1.0
+410,"15433-FM-1325,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,,
+411,"14745-Merriltown-Rd,-Austin,-TX-78728",,,,,,,,,,,,,,,,,,,,2.0,
+412,"9520-9521-Spectrum-Dr,-Austin,-TX-78717",,,,,,,,,,,,,,,,,,,,,
+413,"8800-Highway,-290-W,-Austin,-TX-78736",,,,,,,,,,,,,,,,,,,,1.0,1.0
+414,"6855-E-Hwy,-290,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,,
+415,"614-S-1st-St,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,,
+416,"12113-Metric-Blvd,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,1209.0,2.0,2.0
+417,"13401-Metric-Blvd,-Austin,-TX-78727",,,,,,,,,,,,,,,,,,,,,
+418,"4821-Riverside-Dr-E,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,,,
+419,"2101-W-Anderson-Ln,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,828.0,1.0,1.0
+420,"7201-Hart-Ln,-Austin,-TX-78731",,,,,,,,,,,,,,,,,,,750.0,1.0,1.0
+421,"701-Center-Ridge-Dr,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,815.0,1.0,1.0
+422,"5005-Manor-Rd,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,2.0,1.0
+423,"10127-Middle-Fiskville-Rd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,728.0,1.0,1.0
+424,"3503-Speedway,-Austin,-TX-78705",,,,,,,,,,,,,,,,,,,,1.0,1.0
+425,"1701-Oak-Hill-Ln,-Austin,-TX-78744",,,,,,,,,,,,,,,,,,,625.0,1.0,1.0
+426,"1088-Park-Plaza-Dr,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,
+427,"1300-E-Riverside-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,585.0,1.0,1.0
+428,"409-E-William-Cannon-Dr,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,481.0,1.0,1.0
+429,"1200-1201-Broadmoor-Dr,-Austin,-TX-78723",,,,,,,,,,,,,,,,,,,,,
+430,"3300-Parker-Ln,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,564.0,1.0,1.0
+431,"11600-11634-Argonne-Forest-Trl,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,,3.0,2.0
+432,"3100-Kramer-Ln,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,685.0,1.0,1.0
+433,"801-Sugaree-Ave,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,,1.0,1.0
+434,"4711-E-Riverside-Dr,-Austin,-TX-78741",,,,,,,,,,,,,,,,,,,527.0,1.0,1.0
+435,"1901-E-Anderson-Ln,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,,2.0,1.0
+436,"739-William-Cannon-Dr-W,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,2.0,
+437,"4320-Congress-Ave-S,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,,
+438,"10101-W-Parmer-Ln,-Austin,-TX-78717",,,,,,,,,,,,,,,,,,,610.0,1.0,1.0
+439,"1804-W-Rundberg-Ln,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,,,
+440,"7700-N-Capital-Of-Texas-Hwy,-Austin,-TX-78731",,,,,,,,,,,,,,,,,,,,,
+441,"3801-S-Congress-Ave,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,1221.0,2.0,2.0
+442,"125-Woodward-St,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,,2.0,1.0
+443,"8505-8525-Shoal-Creek-Blvd,-Austin,-TX-78757",,,,,,,,,,,,,,,,,,,,,
+444,"10001-S-1st-St,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,1055.0,2.0,2.0
+445,"3200-S-1st-St,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,500.0,1.0,1.0
+446,"609-Clayton-Ln,-Austin,-TX-78752",,,,,,,,,,,,,,,,,,,650.0,1.0,1.0
+447,"13635-Rutledge-Spur,-Austin,-TX-78717",,,,,,,,,,,,,,,,,,,,1.0,2.0
+448,"744-W-William-Cannon-Dr,-Austin,-TX-78745",,,,,,,,,,,,,,,,,,,,1.0,1.0
+449,"4021-Steck-Ave,-Austin,-TX-78759",,,,,,,,,,,,,,,,,,,611.0,1.0,1.0
+450,"8200-8220-Research-Blvd,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,,,
+451,"2900-S-1st-St,-Austin,-TX-78704",,,,,,,,,,,,,,,,,,,575.0,1.0,1.0
+452,"12800-Harrisglenn-Dr,-Austin,-TX-78753",,,,,,,340.0,,,,,,,,,,,,,,
+453,"1711-Rutland-Dr,-Austin,-TX-78758",,,,,,,,,,,,,,,,,,,,,
+454,"4306-N-Quinlan-Park-Rd,-Austin,-TX-78732",,,,,,,,,,,,,,,,,,,1139.0,2.0,2.0
+455,"9500-Alice-Mae-Ln,-Austin,-TX-78748",,,,,,,,,,,,,,,,,,,,,1.0
+456,"8071-N-Lamar-Blvd,-Austin,-TX-78753",,,,,,,,,,,,,,,,,,,,,1.0
+457,"1630-Rutland-Dr,-Austin,-TX-78758",2.0,Duplex,,Slab / Mat / Raft,Composition Shingle,,2.0,,,,,,True,Hot Water,,True,,"Pool, Concrete",186712.0,,1.0
+458,"4603-Todds-Farm,-San-Antonio,-TX-78244",1.0,,,Slab / Mat / Raft,Asphalt,,,True,1.0,Attached,True,Central,True,Forced Air,,,,,1800.0,3.0,2.0
+459,"500-Tomar-Dr,-San-Antonio,-TX-78227",,,,,,,,,,,,,,,,,,,,,
+460,"3787-Perrin-Central-Blvd,-San-Antonio,-TX-78217",,,,,,,,,,,,,,,,,,,,0.0,
+461,"17715-Overlook-Loop,-San-Antonio,-TX-78259",,,,,,,,,,,,,,,,,,,709.0,1.0,1.0
+462,"1540-W-Bitters-Rd,-San-Antonio,-TX-78248",,,,,,,,,,,,,,,,,,,,,
+463,"4620-Thousand-Oaks-Dr,-San-Antonio,-TX-78233",,,,,,,,,,,,,,,,,,,,,
+464,"7110-Wurzbach-Rd,-San-Antonio,-TX-78240",,,,,,,,,,,,,,,,,,,600.0,1.0,1.0
+465,"7750-Culebra-Rd,-San-Antonio,-TX-78251",,,,,,,,,,,,,,,,,,,,,
+466,"7733-Louis-Pasteur-Dr,-San-Antonio,-TX-78229",,,,,,,,,,,,,,,,,,,,,
+467,"7314-Oak-Manor-Dr,-San-Antonio,-TX-78229",,,,,,,,,,,,,,,,,,,,1.0,1.0
+468,"2519-Broadway-St,-San-Antonio,-TX-78215",,,,,,,,,,,,,,,,,,,,1.0,1.0
+469,"7811-Chambers-Rd,-San-Antonio,-TX-78229",,,,,,,,,,,,,,,,,,,,,
+470,"12200-W-Interstate-10,-San-Antonio,-TX-78230",,,,,,,,,,,,,,,,,,,,,1.0
+471,"400-W-Bitters-Rd,-San-Antonio,-TX-78216",,,,,,,,,,,,,,,,,,,1008.0,2.0,2.0
+472,"11146-Vance-Jackson-Rd,-San-Antonio,-TX-78230",,,,,,,,,,,,,,,,,,,,1.0,1.0
+473,"3629-Medical-Dr,-San-Antonio,-TX-78229",,,,,,,,,,,,,,,,,,,,,
+474,"12910-Clubhouse-Blvd,-San-Antonio,-TX-78221",,,,,,,,,,,,,,,,,,,776.0,1.0,1.0
+475,"Alamo-Ranch-Pkwy---1604-And-Loop,-San-Antonio,-TX-78253",,,,,,,,,,,,,,,,,,,,,
+476,"2906-Woodcliffe-St,-San-Antonio,-TX-78230",1.0,Contemporary,Asbestos Shingle,Slab / Mat / Raft,Asphalt,,1.0,True,,Attached,,,True,Floor / Wall,5.0,,,,936.0,3.0,1.0
+477,"4515-Gardendale-St,-San-Antonio,-TX-78240",,,,,,,,,,,,,,,,,,,1037.0,2.0,2.0
+478,"6419-N-Vandiver-Rd,-San-Antonio,-TX-78209",,,,,,,,,,,,,,,,,,,,3.0,2.0
+479,"3231-Loop,-1604---1604W,-San-Antonio,-TX-78257",,,,,,,,,,,,,,,,,,,,,
+480,"5315-Fredericksburg-Rd,-San-Antonio,-TX-78229",,,,,,,,,,,,,,,,,,,,,
+481,"3538-Puesta-De-Sol,-San-Antonio,-TX-78261",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,3.0,Attached,True,Central,True,Forced Air,11.0,,,,4282.0,5.0,4.5
+482,"6400-Wurzbach-Rd,-San-Antonio,-TX-78240",,,,,,,,,,,,,,,,,,,,,
+483,"1935-Broken-Oak-St,-San-Antonio,-TX-78232",,,,,,,,,,,,,,,,,,,,2.0,2.0
+484,"6222-S-New-Braunfels-Ave,-San-Antonio,-TX-78223",,,,,,,,,,,,,,,,,,,1178.0,3.0,2.0
+485,"5650-Grissom-Rd,-San-Antonio,-TX-78238",,,,,,,,,,,,,,,,,,,,,
+486,"223-Brackenridge-Ave,-San-Antonio,-TX-78209",,,,,,,,,,,,,,,,,,,708.0,1.0,1.0
+487,"9939-Fredericksburg-Rd,-San-Antonio,-TX-78240",,,,,,,,,,,,,,,,,,,,,
+488,"6014-Blanco-Rd,-San-Antonio,-TX-78216",,,,,,,,,,,,,,,,,,,,2.0,2.0
+489,"254-Cloverleaf-Ave,-Apt-4,-San-Antonio,-TX-78209",,,,,,,,,,,,,,,,,,,1100.0,2.0,1.0
+490,"1835-Lockhill-Selma-Rd,-San-Antonio,-TX-78213",,,,,,,,,,,,,,,,,,,,,
+491,"16333-Vance-Jackson-Rd,-San-Antonio,-TX-78257",,,,,,,,,,,,,,,,,,,641.0,1.0,1.0
+492,"2551-Cincinnati-Ave,-San-Antonio,-TX-78228",1.0,Other,Asbestos Shingle,Slab / Mat / Raft,Asphalt,,2.0,,,,,,True,Floor / Wall,7.0,,,,1416.0,3.0,2.0
+493,"3926-Woodbridge-Way,-San-Antonio,-TX-78257",2.0,Contemporary,Stucco,Slab / Mat / Raft,Tile,,,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,1988.0,3.0,2.5
+494,"137-E-Norwood-Ct,-Apt-3,-San-Antonio,-TX-78212",,,,,,,,,,,,,,,,,,,700.0,1.0,1.0
+495,"25138-Summit-Crk,-San-Antonio,-TX-78258",2.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,True,1.0,True,2.0,Attached,True,Central,True,Forced Air,7.0,,,,2163.0,4.0,2.5
+496,"8130-Sunshine-Trail-Dr,-San-Antonio,-TX-78244",2.0,,Brick / Stone,Slab,Asphalt,True,1.0,True,,Attached,True,Central,True,Forced Air,6.0,,,,2153.0,4.0,2.5
+497,"112111-Saratoga-Coach,-San-Antonio,-TX-78254",,,,,,,,,,,,,,,,,,,1972.0,3.0,2.5
+498,"8523-Spicewood-Bnd,-San-Antonio,-TX-78255",1.0,Contemporary,Combination,Slab / Mat / Raft,Asphalt,,,True,1.0,Attached,True,Central,True,Forced Air,5.0,,,,2136.0,3.0,2.0
+499,"8000-8012-Aeromedical-Rd,-San-Antonio,-TX-78235",,,,,,,,,,,,,,,,,,,,,

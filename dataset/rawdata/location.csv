@@ -1,0 +1,501 @@
+location_id,id,addressLine1,city,state,zipCode,formattedAddress,county,longitude,latitude
+0,"7420-FM-2673,-Canyon-Lake,-TX-78133",7420 FM 2673,Canyon Lake,TX,78133,"7420 FM 2673, Canyon Lake, TX 78133",Comal,-98.25519,29.840269
+1,"1350-Hinch-Dr,-New-Braunfels,-TX-78132",1350 Hinch Dr,New Braunfels,TX,78132,"1350 Hinch Dr, New Braunfels, TX 78132",Comal,-98.25412,29.838839
+2,"1200-Hinch-Dr,-New-Braunfels,-TX-78132",1200 Hinch Dr,New Braunfels,TX,78132,"1200 Hinch Dr, New Braunfels, TX 78132",Comal,-98.253258,29.838247
+3,"1340-Hinch-Dr,-New-Braunfels,-TX-78132",1340 Hinch Dr,New Braunfels,TX,78132,"1340 Hinch Dr, New Braunfels, TX 78132",Comal,-98.253893,29.838313
+4,"1331-Hinch-Dr,-New-Braunfels,-TX-78132",1331 Hinch Dr,New Braunfels,TX,78132,"1331 Hinch Dr, New Braunfels, TX 78132",Comal,-98.254227,29.838761
+5,"187-Madrona-Dr,-New-Braunfels,-TX-78132",187 Madrona Dr,New Braunfels,TX,78132,"187 Madrona Dr, New Braunfels, TX 78132",Comal,-98.256479,29.839205
+6,"1171-Hinch-Dr,-New-Braunfels,-TX-78132",1171 Hinch Dr,New Braunfels,TX,78132,"1171 Hinch Dr, New Braunfels, TX 78132",Comal,-98.254203,29.83713
+7,"1501-Old-Sattler-Rd,-New-Braunfels,-TX-78132",1501 Old Sattler Rd,New Braunfels,TX,78132,"1501 Old Sattler Rd, New Braunfels, TX 78132",Comal,-98.256015,29.839009
+8,"1250-Hinch-Dr,-New-Braunfels,-TX-78132",1250 Hinch Dr,New Braunfels,TX,78132,"1250 Hinch Dr, New Braunfels, TX 78132",Comal,-98.253257,29.838233
+9,"7106-FM-2673,-Canyon-Lake,-TX-78133",7106 FM 2673,Canyon Lake,TX,78133,"7106 FM 2673, Canyon Lake, TX 78133",Comal,-98.253532,29.83999
+10,"7034-FM-2673,-Canyon-Lake,-TX-78133",7034 FM 2673,Canyon Lake,TX,78133,"7034 FM 2673, Canyon Lake, TX 78133",Comal,-98.251649,29.838798
+11,"5509-Roanwood,-San-Antonio,-TX-78244",5509 Roanwood,San Antonio,TX,78244,"5509 Roanwood, San Antonio, TX 78244",Bexar,-98.349687,29.477359
+12,"5528-Lochmoor,-San-Antonio,-TX-78244",5528 Lochmoor,San Antonio,TX,78244,"5528 Lochmoor, San Antonio, TX 78244",Bexar,-98.350542,29.477808
+13,"5523-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",5523 Lochmoor,San Antonio,TX,78244,"5523 Lochmoor, Apt 2, San Antonio, TX 78244",Bexar,-98.350809,29.477526
+14,"5721-Lochmoor,-San-Antonio,-TX-78244",5721 Lochmoor,San Antonio,TX,78244,"5721 Lochmoor, San Antonio, TX 78244",Bexar,-98.350547,29.476801
+15,"5519-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",5519 Lochmoor,San Antonio,TX,78244,"5519 Lochmoor, Apt 2, San Antonio, TX 78244",Bexar,-98.350786,29.47746
+16,"5527-Lochmoor,---2,-San-Antonio,-TX-78244",5527 Lochmoor,San Antonio,TX,78244,"5527 Lochmoor, # 2, San Antonio, TX 78244",Bexar,-98.350808,29.47776
+17,"5520-Lochmoor,-San-Antonio,-TX-78244",5520 Lochmoor,San Antonio,TX,78244,"5520 Lochmoor, San Antonio, TX 78244",Bexar,-98.350543,29.477456
+18,"5512-Lochmoor,-San-Antonio,-TX-78244",5512 Lochmoor,San Antonio,TX,78244,"5512 Lochmoor, San Antonio, TX 78244",Bexar,-98.350544,29.477105
+19,"5516-Lochmoor,-San-Antonio,-TX-78244",5516 Lochmoor,San Antonio,TX,78244,"5516 Lochmoor, San Antonio, TX 78244",Bexar,-98.350543,29.477293
+20,"5511-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",5511 Lochmoor,San Antonio,TX,78244,"5511 Lochmoor, Apt 2, San Antonio, TX 78244",Bexar,-98.350809,29.4769
+21,"5705-Lochmoor,-San-Antonio,-TX-78244",5705 Lochmoor,San Antonio,TX,78244,"5705 Lochmoor, San Antonio, TX 78244",Bexar,-98.350546,29.477
+22,"5315-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5315 Shadow Lake Dr,San Antonio,TX,78244,"5315 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353376,29.475057
+23,"7020-Atherton,-San-Antonio,-TX-78244",7020 Atherton,San Antonio,TX,78244,"7020 Atherton, San Antonio, TX 78244",Bexar,-98.349736,29.476933
+24,"7002-Atherton,-San-Antonio,-TX-78244",7002 Atherton,San Antonio,TX,78244,"7002 Atherton, San Antonio, TX 78244",Bexar,-98.350547,29.476766
+25,"5713-Lochmoor,-San-Antonio,-TX-78244",5713 Lochmoor,San Antonio,TX,78244,"5713 Lochmoor, San Antonio, TX 78244",Bexar,-98.350546,29.476895
+26,"5223-Lakebend-East-Dr,-San-Antonio,-TX-78244",5223 Lakebend East Dr,San Antonio,TX,78244,"5223 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.350592,29.473963
+27,"5319-Lakebend-East-Dr,-San-Antonio,-TX-78244",5319 Lakebend East Dr,San Antonio,TX,78244,"5319 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.35128,29.474658
+28,"5307-Lakebend-East-Dr,-San-Antonio,-TX-78244",5307 Lakebend East Dr,San Antonio,TX,78244,"5307 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.35095,29.474307
+29,"7024-Atherton,-San-Antonio,-TX-78244",7024 Atherton,San Antonio,TX,78244,"7024 Atherton, San Antonio, TX 78244",Bexar,-98.349631,29.476968
+30,"5310-Lake,-Golden,-San-Antonio,-TX-78244",5310 Lake,San Antonio,TX,78244,"5310 Lake, Golden, San Antonio, TX 78244",Bexar,-98.351379,29.474259
+31,"5327-Lakebend-East-Dr,-San-Antonio,-TX-78244",5327 Lakebend East Dr,San Antonio,TX,78244,"5327 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.351492,29.474896
+32,"5515-Roanwood,-San-Antonio,-TX-78244",5515 Roanwood,San Antonio,TX,78244,"5515 Roanwood, San Antonio, TX 78244",Bexar,-98.349957,29.477598
+33,"5508-Grand-Lake-Dr,-San-Antonio,-TX-78244",5508 Grand Lake Dr,San Antonio,TX,78244,"5508 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351181,29.476508
+34,"5523-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",5523 Lochmoor,San Antonio,TX,78244,"5523 Lochmoor, Apt 1, San Antonio, TX 78244",Bexar,-98.350809,29.477526
+35,"5507-Lochmoor,-San-Antonio,-TX-78244",5507 Lochmoor,San Antonio,TX,78244,"5507 Lochmoor, San Antonio, TX 78244",Bexar,-98.350834,29.476726
+36,"6831-Quail-Lk,-San-Antonio,-TX-78244",6831 Quail Lk,San Antonio,TX,78244,"6831 Quail Lk, San Antonio, TX 78244",Bexar,-98.351452,29.47376
+37,"5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5322 Shadow Lake Dr,San Antonio,TX,78244,"5322 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352755,29.474965
+38,"5307-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5307 Shadow Lake Dr,San Antonio,TX,78244,"5307 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353659,29.47481
+39,"5403-Park-Lk,-San-Antonio,-TX-78244",5403 Park Lk,San Antonio,TX,78244,"5403 Park Lk, San Antonio, TX 78244",Bexar,-98.349207,29.475701
+40,"5306-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5306 Shadow Lake Dr,San Antonio,TX,78244,"5306 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353281,29.474469
+41,"5407-Park-Lk,-San-Antonio,-TX-78244",5407 Park Lk,San Antonio,TX,78244,"5407 Park Lk, San Antonio, TX 78244",Bexar,-98.349078,29.475944
+42,"5414-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5414 Shadow Lake Dr,San Antonio,TX,78244,"5414 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352293,29.475589
+43,"5414-Lake-Grove-Dr,-San-Antonio,-TX-78244",5414 Lake Grove Dr,San Antonio,TX,78244,"5414 Lake Grove Dr, San Antonio, TX 78244",Bexar,-98.353657,29.475269
+44,"5526-Grand-Lake-Dr,-San-Antonio,-TX-78244",5526 Grand Lake Dr,San Antonio,TX,78244,"5526 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351114,29.477538
+45,"5410-Lake-Grove-Dr,-San-Antonio,-TX-78244",5410 Lake Grove Dr,San Antonio,TX,78244,"5410 Lake Grove Dr, San Antonio, TX 78244",Bexar,-98.353788,29.47514
+46,"5527-Lochmoor,-San-Antonio,-TX-78244",5527 Lochmoor,San Antonio,TX,78244,"5527 Lochmoor, San Antonio, TX 78244",Bexar,-98.350808,29.47776
+47,"6830-Blue-Lake-Dr,-San-Antonio,-TX-78244",6830 Blue Lake Dr,San Antonio,TX,78244,"6830 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353449,29.475708
+48,"6826-Blue-Lake-Dr,-San-Antonio,-TX-78244",6826 Blue Lake Dr,San Antonio,TX,78244,"6826 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353652,29.475724
+49,"6834-Blue-Lake-Dr,-San-Antonio,-TX-78244",6834 Blue Lake Dr,San Antonio,TX,78244,"6834 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353229,29.475726
+50,"5602-Crater-Lake-Dr,-San-Antonio,-TX-78244",5602 Crater Lake Dr,San Antonio,TX,78244,"5602 Crater Lake Dr, San Antonio, TX 78244",Bexar,-98.351129,29.478096
+51,"6847-Blue-Lake-Dr,-San-Antonio,-TX-78244",6847 Blue Lake Dr,San Antonio,TX,78244,"6847 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.352555,29.476166
+52,"6838-Blue-Lake-Dr,-San-Antonio,-TX-78244",6838 Blue Lake Dr,San Antonio,TX,78244,"6838 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353056,29.475729
+53,"6842-Blue-Lake-Dr,-San-Antonio,-TX-78244",6842 Blue Lake Dr,San Antonio,TX,78244,"6842 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.352828,29.475731
+54,"6901-Twin-Lake-Dr,-San-Antonio,-TX-78244",6901 Twin Lake Dr,San Antonio,TX,78244,"6901 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.352347,29.476911
+55,"6839-Twin-Lake-Dr,-San-Antonio,-TX-78244",6839 Twin Lake Dr,San Antonio,TX,78244,"6839 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.352794,29.476902
+56,"6915-Indian-Lake-Dr,-San-Antonio,-TX-78244",6915 Indian Lake Dr,San Antonio,TX,78244,"6915 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.351709,29.477661
+57,"6910-Twin-Lake-Dr,-San-Antonio,-TX-78244",6910 Twin Lake Dr,San Antonio,TX,78244,"6910 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.351656,29.47649
+58,"6903-Twin-Lake-Dr,-San-Antonio,-TX-78244",6903 Twin Lake Dr,San Antonio,TX,78244,"6903 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.352109,29.476907
+59,"6915-Trail-Lk,-San-Antonio,-TX-78244",6915 Trail Lk,San Antonio,TX,78244,"6915 Trail Lk, San Antonio, TX 78244",Bexar,-98.350641,29.475366
+60,"6906-Indian-Lake-Dr,-San-Antonio,-TX-78244",6906 Indian Lake Dr,San Antonio,TX,78244,"6906 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.352111,29.477209
+61,"6930-Trail-Lk,-San-Antonio,-TX-78244",6930 Trail Lk,San Antonio,TX,78244,"6930 Trail Lk, San Antonio, TX 78244",Bexar,-98.349627,29.475264
+62,"6927-Trail-Lk,-San-Antonio,-TX-78244",6927 Trail Lk,San Antonio,TX,78244,"6927 Trail Lk, San Antonio, TX 78244",Bexar,-98.350007,29.475667
+63,"6925-Trail-Lk,-San-Antonio,-TX-78244",6925 Trail Lk,San Antonio,TX,78244,"6925 Trail Lk, San Antonio, TX 78244",Bexar,-98.350181,29.475596
+64,"6931-Trail-Lk,-San-Antonio,-TX-78244",6931 Trail Lk,San Antonio,TX,78244,"6931 Trail Lk, San Antonio, TX 78244",Bexar,-98.349626,29.47576
+65,"6926-Trail-Lk,-San-Antonio,-TX-78244",6926 Trail Lk,San Antonio,TX,78244,"6926 Trail Lk, San Antonio, TX 78244",Bexar,-98.349813,29.475235
+66,"6823-Twin-Lake-Dr,-San-Antonio,-TX-78244",6823 Twin Lake Dr,San Antonio,TX,78244,"6823 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353754,29.476903
+67,"6826-Indian-Lake-Dr,-San-Antonio,-TX-78244",6826 Indian Lake Dr,San Antonio,TX,78244,"6826 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.353508,29.477209
+68,"5501-Grand-Lake-Dr,-San-Antonio,-TX-78244",5501 Grand Lake Dr,San Antonio,TX,78244,"5501 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351747,29.475998
+69,"6827-Twin-Lake-Dr,-San-Antonio,-TX-78244",6827 Twin Lake Dr,San Antonio,TX,78244,"6827 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353527,29.476903
+70,"5522-Grand-Lake-Dr,-San-Antonio,-TX-78244",5522 Grand Lake Dr,San Antonio,TX,78244,"5522 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351166,29.477292
+71,"6835-Twin-Lake-Dr,-San-Antonio,-TX-78244",6835 Twin Lake Dr,San Antonio,TX,78244,"6835 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353053,29.476903
+72,"6834-Indian-Lake-Dr,-San-Antonio,-TX-78244",6834 Indian Lake Dr,San Antonio,TX,78244,"6834 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.353049,29.47721
+73,"6830-Indian-Lake-Dr,-San-Antonio,-TX-78244",6830 Indian Lake Dr,San Antonio,TX,78244,"6830 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.35328,29.47721
+74,"6838-Indian-Lake-Dr,-San-Antonio,-TX-78244",6838 Indian Lake Dr,San Antonio,TX,78244,"6838 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.352813,29.477209
+75,"6831-Twin-Lake-Dr,-San-Antonio,-TX-78244",6831 Twin Lake Dr,San Antonio,TX,78244,"6831 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353276,29.476907
+76,"6903-Indian-Lake-Dr,-San-Antonio,-TX-78244",6903 Indian Lake Dr,San Antonio,TX,78244,"6903 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.352381,29.477654
+77,"6910-Moon-Lake-Dr,-San-Antonio,-TX-78244",6910 Moon Lake Dr,San Antonio,TX,78244,"6910 Moon Lake Dr, San Antonio, TX 78244",Bexar,-98.352175,29.477968
+78,"6838-Twin-Lake-Dr,-San-Antonio,-TX-78244",6838 Twin Lake Dr,San Antonio,TX,78244,"6838 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.352911,29.476463
+79,"6911-Twin-Lake-Dr,-San-Antonio,-TX-78244",6911 Twin Lake Dr,San Antonio,TX,78244,"6911 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.351627,29.476896
+80,"6839-Indian-Lake-Dr,-San-Antonio,-TX-78244",6839 Indian Lake Dr,San Antonio,TX,78244,"6839 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.35281,29.477662
+81,"7018-Atherton,-San-Antonio,-TX-78244",7018 Atherton,San Antonio,TX,78244,"7018 Atherton, San Antonio, TX 78244",Bexar,-98.349777,29.476697
+82,"7022-Atherton,-San-Antonio,-TX-78244",7022 Atherton,San Antonio,TX,78244,"7022 Atherton, San Antonio, TX 78244",Bexar,-98.349376,29.476802
+83,"5524-Lochmoor,-San-Antonio,-TX-78244",5524 Lochmoor,San Antonio,TX,78244,"5524 Lochmoor, San Antonio, TX 78244",Bexar,-98.350542,29.477641
+84,"6919-Indian-Lake-Dr,-San-Antonio,-TX-78244",6919 Indian Lake Dr,San Antonio,TX,78244,"6919 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.351495,29.47767
+85,"6922-Moon-Lake-Dr,-San-Antonio,-TX-78244",6922 Moon Lake Dr,San Antonio,TX,78244,"6922 Moon Lake Dr, San Antonio, TX 78244",Bexar,-98.351481,29.477939
+86,"6826-Still-Lk,-San-Antonio,-TX-78244",6826 Still Lk,San Antonio,TX,78244,"6826 Still Lk, San Antonio, TX 78244",Bexar,-98.351829,29.473855
+87,"6827-Still-Lk,-San-Antonio,-TX-78244",6827 Still Lk,San Antonio,TX,78244,"6827 Still Lk, San Antonio, TX 78244",Bexar,-98.352189,29.474162
+88,"6823-Still-Lk,-San-Antonio,-TX-78244",6823 Still Lk,San Antonio,TX,78244,"6823 Still Lk, San Antonio, TX 78244",Bexar,-98.35231,29.474054
+89,"6819-Still-Lk,-San-Antonio,-TX-78244",6819 Still Lk,San Antonio,TX,78244,"6819 Still Lk, San Antonio, TX 78244",Bexar,-98.35243,29.47394
+90,"6822-Still-Lk,-San-Antonio,-TX-78244",6822 Still Lk,San Antonio,TX,78244,"6822 Still Lk, San Antonio, TX 78244",Bexar,-98.351954,29.473761
+91,"6902-Trail-Lk,-San-Antonio,-TX-78244",6902 Trail Lk,San Antonio,TX,78244,"6902 Trail Lk, San Antonio, TX 78244",Bexar,-98.350784,29.474761
+92,"6835-Still-Lk,-San-Antonio,-TX-78244",6835 Still Lk,San Antonio,TX,78244,"6835 Still Lk, San Antonio, TX 78244",Bexar,-98.351982,29.4744
+93,"6903-Quail-Lk,-San-Antonio,-TX-78244",6903 Quail Lk,San Antonio,TX,78244,"6903 Quail Lk, San Antonio, TX 78244",Bexar,-98.350553,29.474502
+94,"6831-Still-Lk,-San-Antonio,-TX-78244",6831 Still Lk,San Antonio,TX,78244,"6831 Still Lk, San Antonio, TX 78244",Bexar,-98.352081,29.474284
+95,"6830-Still-Lk,-San-Antonio,-TX-78244",6830 Still Lk,San Antonio,TX,78244,"6830 Still Lk, San Antonio, TX 78244",Bexar,-98.351687,29.473992
+96,"6906-Trail-Lk,-San-Antonio,-TX-78244",6906 Trail Lk,San Antonio,TX,78244,"6906 Trail Lk, San Antonio, TX 78244",Bexar,-98.35063,29.474859
+97,"6907-Quail-Lk,-San-Antonio,-TX-78244",6907 Quail Lk,San Antonio,TX,78244,"6907 Quail Lk, San Antonio, TX 78244",Bexar,-98.350235,29.474668
+98,"6906-Quail-Lk,-San-Antonio,-TX-78244",6906 Quail Lk,San Antonio,TX,78244,"6906 Quail Lk, San Antonio, TX 78244",Bexar,-98.349911,29.474332
+99,"6905-Quail-Lk,-San-Antonio,-TX-78244",6905 Quail Lk,San Antonio,TX,78244,"6905 Quail Lk, San Antonio, TX 78244",Bexar,-98.350378,29.474593
+100,"6903-Trail-Lk,-San-Antonio,-TX-78244",6903 Trail Lk,San Antonio,TX,78244,"6903 Trail Lk, San Antonio, TX 78244",Bexar,-98.351105,29.475103
+101,"6911-Quail-Lk,-San-Antonio,-TX-78244",6911 Quail Lk,San Antonio,TX,78244,"6911 Quail Lk, San Antonio, TX 78244",Bexar,-98.34991,29.474835
+102,"6910-Trail-Lk,-San-Antonio,-TX-78244",6910 Trail Lk,San Antonio,TX,78244,"6910 Trail Lk, San Antonio, TX 78244",Bexar,-98.350462,29.474944
+103,"6913-Quail-Lk,-San-Antonio,-TX-78244",6913 Quail Lk,San Antonio,TX,78244,"6913 Quail Lk, San Antonio, TX 78244",Bexar,-98.349726,29.474904
+104,"6910-Quail-Lk,-San-Antonio,-TX-78244",6910 Quail Lk,San Antonio,TX,78244,"6910 Quail Lk, San Antonio, TX 78244",Bexar,-98.349752,29.474425
+105,"6909-Quail-Lk,-San-Antonio,-TX-78244",6909 Quail Lk,San Antonio,TX,78244,"6909 Quail Lk, San Antonio, TX 78244",Bexar,-98.350081,29.474755
+106,"5303-Lakebend-East-Dr,-San-Antonio,-TX-78244",5303 Lakebend East Dr,San Antonio,TX,78244,"5303 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.350835,29.474186
+107,"5418-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5418 Shadow Lake Dr,San Antonio,TX,78244,"5418 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352312,29.475785
+108,"5503-Lochmoor,-San-Antonio,-TX-78244",5503 Lochmoor,San Antonio,TX,78244,"5503 Lochmoor, San Antonio, TX 78244",Bexar,-98.350832,29.476455
+109,"7006-Atherton,-San-Antonio,-TX-78244",7006 Atherton,San Antonio,TX,78244,"7006 Atherton, San Antonio, TX 78244",Bexar,-98.350553,29.476727
+110,"5402-Park-Lk,-San-Antonio,-TX-78244",5402 Park Lk,San Antonio,TX,78244,"5402 Park Lk, San Antonio, TX 78244",Bexar,-98.349063,29.475501
+111,"5318-Lake,-Golden,-San-Antonio,-TX-78244",5318 Lake,San Antonio,TX,78244,"5318 Lake, Golden, San Antonio, TX 78244",Bexar,-98.351607,29.474567
+112,"5511-Roanwood,-San-Antonio,-TX-78244",5511 Roanwood,San Antonio,TX,78244,"5511 Roanwood, San Antonio, TX 78244",Bexar,-98.349931,29.477439
+113,"5315-Lakebend-East-Dr,-San-Antonio,-TX-78244",5315 Lakebend East Dr,San Antonio,TX,78244,"5315 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.351155,29.474535
+114,"5512-Grand-Lake-Dr,-San-Antonio,-TX-78244",5512 Grand Lake Dr,San Antonio,TX,78244,"5512 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.35118,29.476697
+115,"5504-Grand-Lake-Dr,-San-Antonio,-TX-78244",5504 Grand Lake Dr,San Antonio,TX,78244,"5504 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351149,29.476302
+116,"5514-Lochmoor,-San-Antonio,-TX-78244",5514 Lochmoor,San Antonio,TX,78244,"5514 Lochmoor, San Antonio, TX 78244",Bexar,-98.350312,29.477158
+117,"5319-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5319 Shadow Lake Dr,San Antonio,TX,78244,"5319 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.35325,29.475199
+118,"5511-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",5511 Lochmoor,San Antonio,TX,78244,"5511 Lochmoor, Apt 1, San Antonio, TX 78244",Bexar,-98.350809,29.4769
+119,"5530-Grand-Lake-Dr,-San-Antonio,-TX-78244",5530 Grand Lake Dr,San Antonio,TX,78244,"5530 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.35123,29.477693
+120,"5519-Roanwood,-San-Antonio,-TX-78244",5519 Roanwood,San Antonio,TX,78244,"5519 Roanwood, San Antonio, TX 78244",Bexar,-98.349994,29.477758
+121,"5709-Lochmoor,-San-Antonio,-TX-78244",5709 Lochmoor,San Antonio,TX,78244,"5709 Lochmoor, San Antonio, TX 78244",Bexar,-98.350546,29.476963
+122,"5717-Lochmoor,-San-Antonio,-TX-78244",5717 Lochmoor,San Antonio,TX,78244,"5717 Lochmoor, San Antonio, TX 78244",Bexar,-98.350703,29.479659
+123,"5629-Lochmoor,-San-Antonio,-TX-78244",5629 Lochmoor,San Antonio,TX,78244,"5629 Lochmoor, San Antonio, TX 78244",Bexar,-98.350543,29.478007
+124,"5519-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",5519 Lochmoor,San Antonio,TX,78244,"5519 Lochmoor, Apt 1, San Antonio, TX 78244",Bexar,-98.350786,29.47746
+125,"5515-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",5515 Lochmoor,San Antonio,TX,78244,"5515 Lochmoor, Apt 2, San Antonio, TX 78244",Bexar,-98.350814,29.477107
+126,"5502-Grand-Lake-Dr,-San-Antonio,-TX-78244",5502 Grand Lake Dr,San Antonio,TX,78244,"5502 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351158,29.476103
+127,"5503-Roanwood,-San-Antonio,-TX-78244",5503 Roanwood,San Antonio,TX,78244,"5503 Roanwood, San Antonio, TX 78244",Bexar,-98.349944,29.477067
+128,"7014-Atherton,-San-Antonio,-TX-78244",7014 Atherton,San Antonio,TX,78244,"7014 Atherton, San Antonio, TX 78244",Bexar,-98.350174,29.476797
+129,"7012-Atherton,-San-Antonio,-TX-78244",7012 Atherton,San Antonio,TX,78244,"7012 Atherton, San Antonio, TX 78244",Bexar,-98.350255,29.476787
+130,"6921-Trail-Lk,-San-Antonio,-TX-78244",6921 Trail Lk,San Antonio,TX,78244,"6921 Trail Lk, San Antonio, TX 78244",Bexar,-98.35033,29.475509
+131,"5306-Lake,-Golden,-San-Antonio,-TX-78244",5306 Lake,San Antonio,TX,78244,"5306 Lake, Golden, San Antonio, TX 78244",Bexar,-98.351243,29.474126
+132,"5310-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5310 Shadow Lake Dr,San Antonio,TX,78244,"5310 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353158,29.4746
+133,"5218-Lakebend-East-Dr,-San-Antonio,-TX-78244",5218 Lakebend East Dr,San Antonio,TX,78244,"5218 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.350054,29.474098
+134,"5323-Lakebend-East-Dr,-San-Antonio,-TX-78244",5323 Lakebend East Dr,San Antonio,TX,78244,"5323 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.351376,29.474787
+135,"5411-Park-Lk,-San-Antonio,-TX-78244",5411 Park Lk,San Antonio,TX,78244,"5411 Park Lk, San Antonio, TX 78244",Bexar,-98.348911,29.476016
+136,"5302-Lake,-Golden,-San-Antonio,-TX-78244",5302 Lake,San Antonio,TX,78244,"5302 Lake, Golden, San Antonio, TX 78244",Bexar,-98.351132,29.473963
+137,"5410-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5410 Shadow Lake Dr,San Antonio,TX,78244,"5410 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352327,29.4754
+138,"5402-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5402 Shadow Lake Dr,San Antonio,TX,78244,"5402 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352614,29.475103
+139,"5318-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5318 Shadow Lake Dr,San Antonio,TX,78244,"5318 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352892,29.474859
+140,"5526-Lochmoor,-San-Antonio,-TX-78244",5526 Lochmoor,San Antonio,TX,78244,"5526 Lochmoor, San Antonio, TX 78244",Bexar,-98.35031,29.477694
+141,"5311-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5311 Shadow Lake Dr,San Antonio,TX,78244,"5311 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353529,29.47494
+142,"5522-Lochmoor,-San-Antonio,-TX-78244",5522 Lochmoor,San Antonio,TX,78244,"5522 Lochmoor, San Antonio, TX 78244",Bexar,-98.350309,29.477527
+143,"5520-Grand-Lake-Dr,-San-Antonio,-TX-78244",5520 Grand Lake Dr,San Antonio,TX,78244,"5520 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.351183,29.477066
+144,"5510-Lochmoor,-San-Antonio,-TX-78244",5510 Lochmoor,San Antonio,TX,78244,"5510 Lochmoor, San Antonio, TX 78244",Bexar,-98.350309,29.476961
+145,"6907-Twin-Lake-Dr,-San-Antonio,-TX-78244",6907 Twin Lake Dr,San Antonio,TX,78244,"6907 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.351854,29.476903
+146,"6906-Moon-Lake-Dr,-San-Antonio,-TX-78244",6906 Moon Lake Dr,San Antonio,TX,78244,"6906 Moon Lake Dr, San Antonio, TX 78244",Bexar,-98.352429,29.47796
+147,"5507-Roanwood,-San-Antonio,-TX-78244",5507 Roanwood,San Antonio,TX,78244,"5507 Roanwood, San Antonio, TX 78244",Bexar,-98.349932,29.477256
+148,"6907-Indian-Lake-Dr,-San-Antonio,-TX-78244",6907 Indian Lake Dr,San Antonio,TX,78244,"6907 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.352145,29.477664
+149,"6914-Indian-Lake-Dr,-San-Antonio,-TX-78244",6914 Indian Lake Dr,San Antonio,TX,78244,"6914 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.351635,29.477213
+150,"6918-Moon-Lake-Dr,-San-Antonio,-TX-78244",6918 Moon Lake Dr,San Antonio,TX,78244,"6918 Moon Lake Dr, San Antonio, TX 78244",Bexar,-98.351712,29.477963
+151,"6902-Indian-Lake-Dr,-San-Antonio,-TX-78244",6902 Indian Lake Dr,San Antonio,TX,78244,"6902 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.352363,29.477209
+152,"6835-Indian-Lake-Dr,-San-Antonio,-TX-78244",6835 Indian Lake Dr,San Antonio,TX,78244,"6835 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.353047,29.477662
+153,"6914-Moon-Lake-Dr,-San-Antonio,-TX-78244",6914 Moon Lake Dr,San Antonio,TX,78244,"6914 Moon Lake Dr, San Antonio, TX 78244",Bexar,-98.351954,29.477967
+154,"5515-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",5515 Lochmoor,San Antonio,TX,78244,"5515 Lochmoor, Apt 1, San Antonio, TX 78244",Bexar,-98.350814,29.477107
+155,"6911-Indian-Lake-Dr,-San-Antonio,-TX-78244",6911 Indian Lake Dr,San Antonio,TX,78244,"6911 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.351928,29.477661
+156,"7026-Atherton,-San-Antonio,-TX-78244",7026 Atherton,San Antonio,TX,78244,"7026 Atherton, San Antonio, TX 78244",Bexar,-98.349254,29.476884
+157,"6910-Indian-Lake-Dr,-San-Antonio,-TX-78244",6910 Indian Lake Dr,San Antonio,TX,78244,"6910 Indian Lake Dr, San Antonio, TX 78244",Bexar,-98.351883,29.477211
+158,"5505-Roanwood,-San-Antonio,-TX-78244",5505 Roanwood,San Antonio,TX,78244,"5505 Roanwood, San Antonio, TX 78244",Bexar,-98.349687,29.477157
+159,"7023-Atherton,-San-Antonio,-TX-78244",7023 Atherton,San Antonio,TX,78244,"7023 Atherton, San Antonio, TX 78244",Bexar,-98.349511,29.477236
+160,"5518-Lochmoor,-San-Antonio,-TX-78244",5518 Lochmoor,San Antonio,TX,78244,"5518 Lochmoor, San Antonio, TX 78244",Bexar,-98.350311,29.477336
+161,"6926-Moon-Lake-Dr,-San-Antonio,-TX-78244",6926 Moon Lake Dr,San Antonio,TX,78244,"6926 Moon Lake Dr, San Antonio, TX 78244",Bexar,-98.351206,29.477929
+162,"5603-Lochmoor,-San-Antonio,-TX-78244",5603 Lochmoor,San Antonio,TX,78244,"5603 Lochmoor, San Antonio, TX 78244",Bexar,-98.35081,29.477966
+163,"5530-Lochmoor,-San-Antonio,-TX-78244",5530 Lochmoor,San Antonio,TX,78244,"5530 Lochmoor, San Antonio, TX 78244",Bexar,-98.350305,29.477892
+164,"6826-Twin-Lake-Dr,-San-Antonio,-TX-78244",6826 Twin Lake Dr,San Antonio,TX,78244,"6826 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353583,29.476464
+165,"5532-Lochmoor,-San-Antonio,-TX-78244",5532 Lochmoor,San Antonio,TX,78244,"5532 Lochmoor, San Antonio, TX 78244",Bexar,-98.350541,29.477966
+166,"6829-Blue-Lake-Dr,-San-Antonio,-TX-78244",6829 Blue Lake Dr,San Antonio,TX,78244,"6829 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353572,29.476149
+167,"7028-Atherton,-San-Antonio,-TX-78244",7028 Atherton,San Antonio,TX,78244,"7028 Atherton, San Antonio, TX 78244",Bexar,-98.349434,29.476808
+168,"6827-Blue-Lake-Dr,-San-Antonio,-TX-78244",6827 Blue Lake Dr,San Antonio,TX,78244,"6827 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353769,29.476149
+169,"6822-Twin-Lake-Dr,-San-Antonio,-TX-78244",6822 Twin Lake Dr,San Antonio,TX,78244,"6822 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353813,29.476465
+170,"6839-Blue-Lake-Dr,-San-Antonio,-TX-78244",6839 Blue Lake Dr,San Antonio,TX,78244,"6839 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.352955,29.476152
+171,"6823-Blue-Lake-Dr,-San-Antonio,-TX-78244",6823 Blue Lake Dr,San Antonio,TX,78244,"6823 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353988,29.476149
+172,"6834-Twin-Lake-Dr,-San-Antonio,-TX-78244",6834 Twin Lake Dr,San Antonio,TX,78244,"6834 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.353126,29.476462
+173,"6835-Blue-Lake-Dr,-San-Antonio,-TX-78244",6835 Blue Lake Dr,San Antonio,TX,78244,"6835 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353155,29.476152
+174,"6831-Blue-Lake-Dr,-San-Antonio,-TX-78244",6831 Blue Lake Dr,San Antonio,TX,78244,"6831 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.353388,29.476152
+175,"6906-Twin-Lake-Dr,-San-Antonio,-TX-78244",6906 Twin Lake Dr,San Antonio,TX,78244,"6906 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.351935,29.476465
+176,"6830-Twin-Lake-Dr,-San-Antonio,-TX-78244",6830 Twin Lake Dr,San Antonio,TX,78244,"6830 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.35335,29.476463
+177,"6902-Twin-Lake-Dr,-San-Antonio,-TX-78244",6902 Twin Lake Dr,San Antonio,TX,78244,"6902 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.35221,29.476487
+178,"6902-Quail-Lk,-San-Antonio,-TX-78244",6902 Quail Lk,San Antonio,TX,78244,"6902 Quail Lk, San Antonio, TX 78244",Bexar,-98.350186,29.474233
+179,"6842-Twin-Lake-Dr,-San-Antonio,-TX-78244",6842 Twin Lake Dr,San Antonio,TX,78244,"6842 Twin Lake Dr, San Antonio, TX 78244",Bexar,-98.352662,29.476461
+180,"6914-Trail-Lk,-San-Antonio,-TX-78244",6914 Trail Lk,San Antonio,TX,78244,"6914 Trail Lk, San Antonio, TX 78244",Bexar,-98.350309,29.475026
+181,"6915-Quail-Lk,-San-Antonio,-TX-78244",6915 Quail Lk,San Antonio,TX,78244,"6915 Quail Lk, San Antonio, TX 78244",Bexar,-98.349507,29.474934
+182,"6918-Trail-Lk,-San-Antonio,-TX-78244",6918 Trail Lk,San Antonio,TX,78244,"6918 Trail Lk, San Antonio, TX 78244",Bexar,-98.350145,29.475096
+183,"6843-Blue-Lake-Dr,-San-Antonio,-TX-78244",6843 Blue Lake Dr,San Antonio,TX,78244,"6843 Blue Lake Dr, San Antonio, TX 78244",Bexar,-98.352781,29.476156
+184,"6934-Trail-Lk,-San-Antonio,-TX-78244",6934 Trail Lk,San Antonio,TX,78244,"6934 Trail Lk, San Antonio, TX 78244",Bexar,-98.349406,29.47526
+185,"7004-Atherton,-San-Antonio,-TX-78244",7004 Atherton,San Antonio,TX,78244,"7004 Atherton, San Antonio, TX 78244",Bexar,-98.350532,29.476452
+186,"6929-Trail-Lk,-San-Antonio,-TX-78244",6929 Trail Lk,San Antonio,TX,78244,"6929 Trail Lk, San Antonio, TX 78244",Bexar,-98.34983,29.475714
+187,"6911-Trail-Lk,-San-Antonio,-TX-78244",6911 Trail Lk,San Antonio,TX,78244,"6911 Trail Lk, San Antonio, TX 78244",Bexar,-98.350795,29.475267
+188,"6907-Trail-Lk,-San-Antonio,-TX-78244",6907 Trail Lk,San Antonio,TX,78244,"6907 Trail Lk, San Antonio, TX 78244",Bexar,-98.350952,29.475193
+189,"6954-Lakeview-Dr,-San-Antonio,-TX-78244",6954 Lakeview Dr,San Antonio,TX,78244,"6954 Lakeview Dr, San Antonio, TX 78244",Bexar,-98.349695,29.47606
+190,"7016-Atherton,-San-Antonio,-TX-78244",7016 Atherton,San Antonio,TX,78244,"7016 Atherton, San Antonio, TX 78244",Bexar,-98.349998,29.476625
+191,"6922-Trail-Lk,-San-Antonio,-TX-78244",6922 Trail Lk,San Antonio,TX,78244,"6922 Trail Lk, San Antonio, TX 78244",Bexar,-98.349981,29.475189
+192,"6935-Trail-Lk,-San-Antonio,-TX-78244",6935 Trail Lk,San Antonio,TX,78244,"6935 Trail Lk, San Antonio, TX 78244",Bexar,-98.349428,29.475798
+193,"6919-Trail-Lk,-San-Antonio,-TX-78244",6919 Trail Lk,San Antonio,TX,78244,"6919 Trail Lk, San Antonio, TX 78244",Bexar,-98.350488,29.475444
+194,"5311-Lakebend-East-Dr,-San-Antonio,-TX-78244",5311 Lakebend East Dr,San Antonio,TX,78244,"5311 Lakebend East Dr, San Antonio, TX 78244",Bexar,-98.351057,29.474432
+195,"7010-Atherton,-San-Antonio,-TX-78244",7010 Atherton,San Antonio,TX,78244,"7010 Atherton, San Antonio, TX 78244",Bexar,-98.350199,29.476565
+196,"7032-Atherton,-San-Antonio,-TX-78244",7032 Atherton,San Antonio,TX,78244,"7032 Atherton, San Antonio, TX 78244",Bexar,-98.349254,29.47687
+197,"5314-Lake,-Golden,-San-Antonio,-TX-78244",5314 Lake,San Antonio,TX,78244,"5314 Lake, Golden, San Antonio, TX 78244",Bexar,-98.351458,29.474389
+198,"7008-Atherton,-San-Antonio,-TX-78244",7008 Atherton,San Antonio,TX,78244,"7008 Atherton, San Antonio, TX 78244",Bexar,-98.350372,29.47649
+199,"5503-Grand-Lake-Dr,-San-Antonio,-TX-78244",5503 Grand Lake Dr,San Antonio,TX,78244,"5503 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.35195,29.476205
+200,"5314-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5314 Shadow Lake Dr,San Antonio,TX,78244,"5314 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353036,29.474733
+201,"5322-Lake,-Golden,-San-Antonio,-TX-78244",5322 Lake,San Antonio,TX,78244,"5322 Lake, Golden, San Antonio, TX 78244",Bexar,-98.351813,29.474588
+202,"5516-Grand-Lake-Dr,-San-Antonio,-TX-78244",5516 Grand Lake Dr,San Antonio,TX,78244,"5516 Grand Lake Dr, San Antonio, TX 78244",Bexar,-98.35118,29.476858
+203,"5418-Lake-Grove-Dr,-San-Antonio,-TX-78244",5418 Lake Grove Dr,San Antonio,TX,78244,"5418 Lake Grove Dr, San Antonio, TX 78244",Bexar,-98.35353,29.475468
+204,"5407-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5407 Shadow Lake Dr,San Antonio,TX,78244,"5407 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352976,29.47549
+205,"5403-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5403 Shadow Lake Dr,San Antonio,TX,78244,"5403 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.353083,29.475333
+206,"5406-Shadow-Lake-Dr,-San-Antonio,-TX-78244",5406 Shadow Lake Dr,San Antonio,TX,78244,"5406 Shadow Lake Dr, San Antonio, TX 78244",Bexar,-98.352458,29.475241
+207,"5625-Lochmoor,-San-Antonio,-TX-78244",5625 Lochmoor,San Antonio,TX,78244,"5625 Lochmoor, San Antonio, TX 78244",Bexar,-98.350543,29.478057
+208,"6914-Quail-Lk,-San-Antonio,-TX-78244",6914 Quail Lk,San Antonio,TX,78244,"6914 Quail Lk, San Antonio, TX 78244",Bexar,-98.349513,29.474489
+209,"5607-Lochmoor,-San-Antonio,-TX-78244",5607 Lochmoor,San Antonio,TX,78244,"5607 Lochmoor, San Antonio, TX 78244",Bexar,-98.350811,29.478132
+210,"5607-Lochmoor,---1,-San-Antonio,-TX-78244",5607 Lochmoor,San Antonio,TX,78244,"5607 Lochmoor, # 1, San Antonio, TX 78244",Bexar,-98.350811,29.478132
+211,"325-Sw-Trafalgar-Pkwy,-Cape-Coral,-FL-33991",325 Sw Trafalgar Pkwy,Cape Coral,FL,33991,"325 Sw Trafalgar Pkwy, Cape Coral, FL 33991",Lee,-81.98172,26.623196
+212,"6636-W-William-Cannon-Dr,-Austin,-TX-78735",6636 W William Cannon Dr,Austin,TX,78735,"6636 W William Cannon Dr, Austin, TX 78735",Travis,-97.861253,30.244594
+213,"13529-Coleto-Creek-Trl,-Austin,-TX-78732",13529 Coleto Creek Trl,Austin,TX,78732,"13529 Coleto Creek Trl, Austin, TX 78732",Travis,-97.909127,30.373229
+214,"7011-W-Parmer-Ln,-Austin,-TX-78729",7011 W Parmer Ln,Austin,TX,78729,"7011 W Parmer Ln, Austin, TX 78729",Williamson,-97.749933,30.450677
+215,"7001-S-Congress-Ave,-Austin,-TX-78745",7001 S Congress Ave,Austin,TX,78745,"7001 S Congress Ave, Austin, TX 78745",Travis,-97.779373,30.189851
+216,"8109-Wolf-Jaw-Cv,-Austin,-TX-78729",8109 Wolf Jaw Cv,Austin,TX,78729,"8109 Wolf Jaw Cv, Austin, TX 78729",Williamson,-97.76699,30.445541
+217,"5200-N-Lamar-Blvd,-Austin,-TX-78751",5200 N Lamar Blvd,Austin,TX,78751,"5200 N Lamar Blvd, Austin, TX 78751",Travis,-97.731593,30.320159
+218,"1301-W-5th-St,-Austin,-TX-78703",1301 W 5th St,Austin,TX,78703,"1301 W 5th St, Austin, TX 78703",Travis,-97.759877,30.271746
+219,"5120-Mansfield-View-Ct,-Austin,-TX-78732",5120 Mansfield View Ct,Austin,TX,78732,"5120 Mansfield View Ct, Austin, TX 78732",Travis,-97.884084,30.39135
+220,"1044-Camino-Ln,-Costa,-Austin,-TX-78752",1044 Camino Ln,Austin,TX,78752,"1044 Camino Ln, Costa, Austin, TX 78752",Travis,-97.69927,30.32526
+221,"12300-Riata-Trace-Pkwy,-Austin,-TX-78727",12300 Riata Trace Pkwy,Austin,TX,78727,"12300 Riata Trace Pkwy, Austin, TX 78727",Travis,-97.747528,30.429394
+222,"4913-Wing-Rd,-Austin,-TX-78749",4913 Wing Rd,Austin,TX,78749,"4913 Wing Rd, Austin, TX 78749",Travis,-97.845307,30.227757
+223,"924-Cavalry-Ride-Trl,-Austin,-TX-78732",924 Cavalry Ride Trl,Austin,TX,78732,"924 Cavalry Ride Trl, Austin, TX 78732",Travis,-97.904285,30.353596
+224,"2401-Manor-Rd,-Apt-209,-Austin,-TX-78722",2401 Manor Rd,Austin,TX,78722,"2401 Manor Rd, Apt 209, Austin, TX 78722",Travis,-97.716636,30.284192
+225,"800-W-38th-St,-Austin,-TX-78705",800 W 38th St,Austin,TX,78705,"800 W 38th St, Austin, TX 78705",Travis,-97.741417,30.30471
+226,"2426-E-6th-St,-Unit-242,-Austin,-TX-78702",2426 E 6th St,Austin,TX,78702,"2426 E 6th St, Unit 242, Austin, TX 78702",Travis County,-97.714655,30.258928
+227,"4811-Burnet-Rd,-Austin,-TX-78756",4811 Burnet Rd,Austin,TX,78756,"4811 Burnet Rd, Austin, TX 78756",Travis,-97.738808,30.319464
+228,"1500-E-Riverside-Dr,-Austin,-TX-78741",1500 E Riverside Dr,Austin,TX,78741,"1500 E Riverside Dr, Austin, TX 78741",Travis,-97.731339,30.247073
+229,"8801-N-Fm-620-Rd,-Austin,-TX-78726",8801 N Fm 620 Rd,Austin,TX,78726,"8801 N Fm 620 Rd, Austin, TX 78726",Travis,-97.84242,30.42695
+230,"2104-E-Anderson-Ln,-Austin,-TX-78752",2104 E Anderson Ln,Austin,TX,78752,"2104 E Anderson Ln, Austin, TX 78752",Travis,-97.677648,30.331529
+231,"7401-N-Lamar-Blvd,-Austin,-TX-78752",7401 N Lamar Blvd,Austin,TX,78752,"7401 N Lamar Blvd, Austin, TX 78752",Travis,-97.715774,30.34056
+232,"12430-Metric-Blvd,-Austin,-TX-78758",12430 Metric Blvd,Austin,TX,78758,"12430 Metric Blvd, Austin, TX 78758",Travis,-97.692939,30.41274
+233,"6500-Champion-Grandview-Way,-Austin,-TX-78750",6500 Champion Grandview Way,Austin,TX,78750,"6500 Champion Grandview Way, Austin, TX 78750",Travis,-97.79181,30.3642
+234,"2402-San-Gabriel-St,-Austin,-TX-78705",2402 San Gabriel St,Austin,TX,78705,"2402 San Gabriel St, Austin, TX 78705",Travis,-97.747951,30.288448
+235,"360-Nueces-St,-Apt-1212,-Austin,-TX-78701",360 Nueces St,Austin,TX,78701,"360 Nueces St, Apt 1212, Austin, TX 78701",Travis,-97.749619,30.267658
+236,"1621-E-6th-St,-Austin,-TX-78702",1621 E 6th St,Austin,TX,78702,"1621 E 6th St, Austin, TX 78702",Travis,-97.726008,30.262248
+237,"8600-N-Lamar-Blvd,-Austin,-TX-78753",8600 N Lamar Blvd,Austin,TX,78753,"8600 N Lamar Blvd, Austin, TX 78753",Travis,-97.706386,30.354964
+238,"1911-Willow-Creek-Dr,-Austin,-TX-78741",1911 Willow Creek Dr,Austin,TX,78741,"1911 Willow Creek Dr, Austin, TX 78741",Travis,-97.72886,30.23256
+239,"1611-W-5th-St,-Austin,-TX-78703",1611 W 5th St,Austin,TX,78703,"1611 W 5th St, Austin, TX 78703",Travis,-97.764246,30.273858
+240,"1720-W-Wells-Branch-Pkwy,-Austin,-TX-78728",1720 W Wells Branch Pkwy,Austin,TX,78728,"1720 W Wells Branch Pkwy, Austin, TX 78728",Travis County,-97.672445,30.440369
+241,"13145-N-Hwy,-183,-Austin,-TX-78750",13145 N Hwy,Austin,TX,78750,"13145 N Hwy, 183, Austin, TX 78750",Williamson County,-97.778631,30.442044
+242,"6607-Brodie-Ln,-Austin,-TX-78745",6607 Brodie Ln,Austin,TX,78745,"6607 Brodie Ln, Austin, TX 78745",Travis,-97.825396,30.215883
+243,"3816-S-Lamar-Blvd,-Austin,-TX-78704",3816 S Lamar Blvd,Austin,TX,78704,"3816 S Lamar Blvd, Austin, TX 78704",Travis,-97.79131,30.239108
+244,"2504-Huntwick-Dr,-Austin,-TX-78741",2504 Huntwick Dr,Austin,TX,78741,"2504 Huntwick Dr, Austin, TX 78741",Travis,-97.727809,30.225007
+245,"502-W-Longspur-Blvd,-Austin,-TX-78753",502 W Longspur Blvd,Austin,TX,78753,"502 W Longspur Blvd, Austin, TX 78753",Travis,-97.691963,30.367226
+246,"1507-Kinney-Ave,-Austin,-TX-78704",1507 Kinney Ave,Austin,TX,78704,"1507 Kinney Ave, Austin, TX 78704",Travis County,-97.766611,30.253431
+247,"1100-Reinli-St,-Austin,-TX-78723",1100 Reinli St,Austin,TX,78723,"1100 Reinli St, Austin, TX 78723",Travis County,-97.70315,30.317259
+248,"1309-Zacharys-Way,-Austin,-TX-78748",1309 Zacharys Way,Austin,TX,78748,"1309 Zacharys Way, Austin, TX 78748",Travis,-97.83187,30.147676
+249,"1034-Clayton-Ln,-Austin,-TX-78723",1034 Clayton Ln,Austin,TX,78723,"1034 Clayton Ln, Austin, TX 78723",Travis,-97.7031,30.31971
+250,"11511-Metric-Blvd,-Austin,-TX-78758",11511 Metric Blvd,Austin,TX,78758,"11511 Metric Blvd, Austin, TX 78758",Travis,-97.706207,30.394695
+251,"1403-Norwalk-Ln,-Austin,-TX-78703",1403 Norwalk Ln,Austin,TX,78703,"1403 Norwalk Ln, Austin, TX 78703",Travis,-97.7714,30.28921
+252,"811-E-11th-St,-Austin,-TX-78702",811 E 11th St,Austin,TX,78702,"811 E 11th St, Austin, TX 78702",Travis,-97.73204,30.26943
+253,"2029-E-7th-St,-Unit-134,-Austin,-TX-78702",2029 E 7th St,Austin,TX,78702,"2029 E 7th St, Unit 134, Austin, TX 78702",Travis County,-97.719629,30.261783
+254,"5402-Ave-F,-Austin,-TX-78751",5402 Ave F,Austin,TX,78751,"5402 Ave F, Austin, TX 78751",Travis County,-97.720565,30.319132
+255,"2819-Foster-Ln,-Austin,-TX-78757",2819 Foster Ln,Austin,TX,78757,"2819 Foster Ln, Austin, TX 78757",Travis County,-97.73818,30.356331
+256,"13217-Vendrell-Dr,-Austin,-TX-78729",13217 Vendrell Dr,Austin,TX,78729,"13217 Vendrell Dr, Austin, TX 78729",Williamson,-97.754976,30.451862
+257,"1511-Faro-Dr,-Austin,-TX-78741",1511 Faro Dr,Austin,TX,78741,"1511 Faro Dr, Austin, TX 78741",Travis County,-97.712617,30.235227
+258,"1900-W-Saint-Johns-Ave-Unit-A,-Austin,-TX-78757",1900 W Saint Johns Ave Unit A,Austin,TX,78757,"1900 W Saint Johns Ave Unit A, Austin, TX 78757",Travis County,-97.731407,30.345432
+259,"11402-Walnut-Ridge-Dr,-Unit-B,-Austin,-TX-78753",11402 Walnut Ridge Dr,Austin,TX,78753,"11402 Walnut Ridge Dr, Unit B, Austin, TX 78753",Travis County,-97.668403,30.376111
+260,"12300-Hymeadow-Dr,-Austin,-TX-78750",12300 Hymeadow Dr,Austin,TX,78750,"12300 Hymeadow Dr, Austin, TX 78750",Williamson,-97.797976,30.453895
+261,"1908-W-Loop,-Apt-A,-Austin,-TX-78758",1908 W Loop,Austin,TX,78758,"1908 W Loop, Apt A, Austin, TX 78758",Travis,-97.718242,30.372162
+262,"1900-Barton-Springs-Rd,-Unit-4041,-Austin,-TX-78704",1900 Barton Springs Rd,Austin,TX,78704,"1900 Barton Springs Rd, Unit 4041, Austin, TX 78704",Travis,-97.763986,30.264362
+263,"10122-Cassandra-Dr,-Austin,-TX-78717",10122 Cassandra Dr,Austin,TX,78717,"10122 Cassandra Dr, Austin, TX 78717",Williamson,-97.770292,30.493266
+264,"6263-Mcneil-Dr,-Austin,-TX-78729",6263 Mcneil Dr,Austin,TX,78729,"6263 Mcneil Dr, Austin, TX 78729",Travis,-97.747084,30.440315
+265,"8112-Siringo-Pass,-Austin,-TX-78749",8112 Siringo Pass,Austin,TX,78749,"8112 Siringo Pass, Austin, TX 78749",Travis,-97.877111,30.219965
+266,"8000-Decker-Ln,-Austin,-TX-78724",8000 Decker Ln,Austin,TX,78724,"8000 Decker Ln, Austin, TX 78724",Travis,-97.624002,30.308724
+267,"7920-San-Felipe-Blvd,-Austin,-TX-78729",7920 San Felipe Blvd,Austin,TX,78729,"7920 San Felipe Blvd, Austin, TX 78729",Williamson,-97.770146,30.439865
+268,"909-Great-Britain-Blvd,-Austin,-TX-78748",909 Great Britain Blvd,Austin,TX,78748,"909 Great Britain Blvd, Austin, TX 78748",Travis,-97.804059,30.18051
+269,"1810-Adina-St,-Unit-B,-Austin,-TX-78721",1810 Adina St,Austin,TX,78721,"1810 Adina St, Unit B, Austin, TX 78721",Travis County,-97.679825,30.283132
+270,"500-E-Riverside-Dr,-Apt-254,-Austin,-TX-78704",500 E Riverside Dr,Austin,TX,78704,"500 E Riverside Dr, Apt 254, Austin, TX 78704",Travis,-97.743042,30.253597
+271,"6503-Bluff-Springs-Rd,-Austin,-TX-78744",6503 Bluff Springs Rd,Austin,TX,78744,"6503 Bluff Springs Rd, Austin, TX 78744",Travis,-97.765892,30.190017
+272,"8312-Fathom-Cir,-Austin,-TX-78750",8312 Fathom Cir,Austin,TX,78750,"8312 Fathom Cir, Austin, TX 78750",Williamson,-97.778095,30.436661
+273,"2320-Gracy-Farms-Ln,-Apt-233,-Austin,-TX-78758",2320 Gracy Farms Ln,Austin,TX,78758,"2320 Gracy Farms Ln, Apt 233, Austin, TX 78758",Travis,-97.708987,30.402884
+274,"14100-Avery-Ranch-Blvd,-Unit-701,-Austin,-TX-78717",14100 Avery Ranch Blvd,Austin,TX,78717,"14100 Avery Ranch Blvd, Unit 701, Austin, TX 78717",Williamson,-97.789108,30.495405
+275,"7224-Northeast-Dr,-Austin,-TX-78723",7224 Northeast Dr,Austin,TX,78723,"7224 Northeast Dr, Austin, TX 78723",Travis County,-97.680679,30.321055
+276,"1624-E-6th-St,-Unit-233,-Austin,-TX-78702",1624 E 6th St,Austin,TX,78702,"1624 E 6th St, Unit 233, Austin, TX 78702",Travis County,-97.725447,30.262803
+277,"313-Brazos-St,-Unit-236,-Austin,-TX-78701",313 Brazos St,Austin,TX,78701,"313 Brazos St, Unit 236, Austin, TX 78701",Travis County,-97.742481,30.264982
+278,"8001-S-Ih,---35,-Austin,-TX-78744",8001 S Ih,Austin,TX,78744,"8001 S Ih, # 35, Austin, TX 78744",Travis County,-97.775327,30.174784
+279,"2505-Longview-St,-Austin,-TX-78705",2505 Longview St,Austin,TX,78705,"2505 Longview St, Austin, TX 78705",Travis,-97.750276,30.290185
+280,"10926-Jollyville-Rd,-Austin,-TX-78759",10926 Jollyville Rd,Austin,TX,78759,"10926 Jollyville Rd, Austin, TX 78759",Travis,-97.749627,30.403663
+281,"301-West-Ave,-Apt-3502,-Austin,-TX-78701",301 West Ave,Austin,TX,78701,"301 West Ave, Apt 3502, Austin, TX 78701",Travis,-97.750936,30.267761
+282,"1781-Spyglass-Dr,-Austin,-TX-78746",1781 Spyglass Dr,Austin,TX,78746,"1781 Spyglass Dr, Austin, TX 78746",Travis,-97.79248,30.257532
+283,"12345-Lamplight-Village-Ave,-Austin,-TX-78758",12345 Lamplight Village Ave,Austin,TX,78758,"12345 Lamplight Village Ave, Austin, TX 78758",Travis,-97.695405,30.412446
+284,"9501-N-Fm-620-Rd,-Austin,-TX-78726",9501 N Fm 620 Rd,Austin,TX,78726,"9501 N Fm 620 Rd, Austin, TX 78726",Travis,-97.840066,30.434946
+285,"500-E-Anderson-Ln,-Austin,-TX-78752",500 E Anderson Ln,Austin,TX,78752,"500 E Anderson Ln, Austin, TX 78752",Travis,-97.70144,30.34206
+286,"7610-Cameron-Rd,-Austin,-TX-78752",7610 Cameron Rd,Austin,TX,78752,"7610 Cameron Rd, Austin, TX 78752",Travis,-97.688567,30.331538
+287,"9617-Great-Hills-Trl,-Austin,-TX-78759",9617 Great Hills Trl,Austin,TX,78759,"9617 Great Hills Trl, Austin, TX 78759",Travis,-97.753775,30.393533
+288,"2403-Gateshead-Cir,-Austin,-TX-78745",2403 Gateshead Cir,Austin,TX,78745,"2403 Gateshead Cir, Austin, TX 78745",Travis,-97.804028,30.216941
+289,"625-E-Stassney-Ln,-Austin,-TX-78745",625 E Stassney Ln,Austin,TX,78745,"625 E Stassney Ln, Austin, TX 78745",Travis,-97.76971,30.20068
+290,"2302-E-William-Cannon-Dr,-Austin,-TX-78744",2302 E William Cannon Dr,Austin,TX,78744,"2302 E William Cannon Dr, Austin, TX 78744",Travis,-97.758366,30.187064
+291,"3621-W-Slaughter-Ln,-Austin,-TX-78749",3621 W Slaughter Ln,Austin,TX,78749,"3621 W Slaughter Ln, Austin, TX 78749",Travis,-97.85339,30.18414
+292,"1200-Treadwell-St,-Austin,-TX-78704",1200 Treadwell St,Austin,TX,78704,"1200 Treadwell St, Austin, TX 78704",Travis,-97.760643,30.256051
+293,"4525-Guadalupe-St,-Austin,-TX-78751",4525 Guadalupe St,Austin,TX,78751,"4525 Guadalupe St, Austin, TX 78751",Travis,-97.731946,30.311379
+294,"8805-N-Plaza-Dr,-Austin,-TX-78753",8805 N Plaza Dr,Austin,TX,78753,"8805 N Plaza Dr, Austin, TX 78753",Travis,-97.68629,30.34965
+295,"111-Sandra-Muraida-Way,-Austin,-TX-78703",111 Sandra Muraida Way,Austin,TX,78703,"111 Sandra Muraida Way, Austin, TX 78703",Travis,-97.75415,30.267466
+296,"600-E-53rd-St,-Austin,-TX-78751",600 E 53rd St,Austin,TX,78751,"600 E 53rd St, Austin, TX 78751",Travis,-97.71707,30.31616
+297,"1624-E-6th-St,-Unit-12,-Austin,-TX-78702",1624 E 6th St,Austin,TX,78702,"1624 E 6th St, Unit 12, Austin, TX 78702",Travis County,-97.725447,30.262803
+298,"2201-Montopolis-Dr,-Austin,-TX-78741",2201 Montopolis Dr,Austin,TX,78741,"2201 Montopolis Dr, Austin, TX 78741",Travis,-97.703995,30.222165
+299,"1300-Pleasant-Valley-Rd-S,-Austin,-TX-78741",1300 Pleasant Valley Rd S,Austin,TX,78741,"1300 Pleasant Valley Rd S, Austin, TX 78741",Travis County,-97.719682,30.24047
+300,"2800-Bartons-Bluff-Ln,-Austin,-TX-78746",2800 Bartons Bluff Ln,Austin,TX,78746,"2800 Bartons Bluff Ln, Austin, TX 78746",Travis,-97.796867,30.256131
+301,"1401-Enfield-Rd,-Austin,-TX-78703",1401 Enfield Rd,Austin,TX,78703,"1401 Enfield Rd, Austin, TX 78703",Travis,-97.755542,30.281264
+302,"4017-Victory-Dr,-Austin,-TX-78704",4017 Victory Dr,Austin,TX,78704,"4017 Victory Dr, Austin, TX 78704",Travis,-97.788814,30.233253
+303,"8912-N-Lamar-Blvd,-Austin,-TX-78753",8912 N Lamar Blvd,Austin,TX,78753,"8912 N Lamar Blvd, Austin, TX 78753",Travis,-97.700654,30.358989
+304,"10600-Jollyville-Rd,-Austin,-TX-78759",10600 Jollyville Rd,Austin,TX,78759,"10600 Jollyville Rd, Austin, TX 78759",Travis,-97.749969,30.39963
+305,"2201-Willow-Creek-Dr,-Austin,-TX-78741",2201 Willow Creek Dr,Austin,TX,78741,"2201 Willow Creek Dr, Austin, TX 78741",Travis,-97.729231,30.230284
+306,"4511-Dudmar-Dr,-Austin,-TX-78735",4511 Dudmar Dr,Austin,TX,78735,"4511 Dudmar Dr, Austin, TX 78735",Travis,-97.80695,30.235113
+307,"1600-Barton-Springs-Rd,-Unit-2404,-Austin,-TX-78704",1600 Barton Springs Rd,Austin,TX,78704,"1600 Barton Springs Rd, Unit 2404, Austin, TX 78704",Travis,-97.761177,30.261699
+308,"6908-Colorado-Bluffs-Rd,-Austin,-TX-78744",6908 Colorado Bluffs Rd,Austin,TX,78744,"6908 Colorado Bluffs Rd, Austin, TX 78744",Travis,-97.700138,30.201787
+309,"460-Bastrop-Hwy-S,-Austin,-TX-78741",460 Bastrop Hwy S,Austin,TX,78741,"460 Bastrop Hwy S, Austin, TX 78741",Travis,-97.688568,30.237778
+310,"1500-Scenic-Dr,-Apt-106,-Austin,-TX-78703",1500 Scenic Dr,Austin,TX,78703,"1500 Scenic Dr, Apt 106, Austin, TX 78703",Travis,-97.784483,30.296763
+311,"7000-E-Ben-White-Blvd,-Austin,-TX-78741",7000 E Ben White Blvd,Austin,TX,78741,"7000 E Ben White Blvd, Austin, TX 78741",Travis,-97.702228,30.217479
+312,"3406-Barranca-Cir,-Austin,-TX-78731",3406 Barranca Cir,Austin,TX,78731,"3406 Barranca Cir, Austin, TX 78731",Travis,-97.770675,30.323832
+313,"1003-Justin-Ln,-Austin,-TX-78757",1003 Justin Ln,Austin,TX,78757,"1003 Justin Ln, Austin, TX 78757",Travis,-97.722252,30.337039
+314,"300-West-Ave,-Austin,-TX-78701",300 West Ave,Austin,TX,78701,"300 West Ave, Austin, TX 78701",Travis,-97.75291,30.2686
+315,"2016-Park-Bend-Dr,-Austin,-TX-78758",2016 Park Bend Dr,Austin,TX,78758,"2016 Park Bend Dr, Austin, TX 78758",Travis,-97.698735,30.408332
+316,"6600-Ed-Bluestein-Blvd,-Austin,-TX-78723",6600 Ed Bluestein Blvd,Austin,TX,78723,"6600 Ed Bluestein Blvd, Austin, TX 78723",Travis,-97.66245,30.305748
+317,"515-E-Slaughter-Ln,-Austin,-TX-78744",515 E Slaughter Ln,Austin,TX,78744,"515 E Slaughter Ln, Austin, TX 78744",Travis,-97.779605,30.162537
+318,"127-E-Riverside-Dr,-Austin,-TX-78704",127 E Riverside Dr,Austin,TX,78704,"127 E Riverside Dr, Austin, TX 78704",Travis,-97.745972,30.255614
+319,"1200-E-Parmer-Ln,-Austin,-TX-78753",1200 E Parmer Ln,Austin,TX,78753,"1200 E Parmer Ln, Austin, TX 78753",Travis,-97.652516,30.396078
+320,"700-Hearn-St,-Austin,-TX-78703",700 Hearn St,Austin,TX,78703,"700 Hearn St, Austin, TX 78703",Travis,-97.771896,30.280987
+321,"7601-Rialto-Blvd,-Austin,-TX-78735",7601 Rialto Blvd,Austin,TX,78735,"7601 Rialto Blvd, Austin, TX 78735",Travis,-97.87262,30.25294
+322,"2200-S-Pleasant-Valley-Rd,-Austin,-TX-78741",2200 S Pleasant Valley Rd,Austin,TX,78741,"2200 S Pleasant Valley Rd, Austin, TX 78741",Travis,-97.726467,30.231206
+323,"15510-Ranch-Road-620-Rd,-Austin,-TX-78717",15510 Ranch Road 620 Rd,Austin,TX,78717,"15510 Ranch Road 620 Rd, Austin, TX 78717",Williamson County,-97.736289,30.485601
+324,"8701-Bluffstone-Cv,-Austin,-TX-78759",8701 Bluffstone Cv,Austin,TX,78759,"8701 Bluffstone Cv, Austin, TX 78759",Travis,-97.763931,30.390953
+325,"14100-Thermal-Dr,-Austin,-TX-78728",14100 Thermal Dr,Austin,TX,78728,"14100 Thermal Dr, Austin, TX 78728",Travis,-97.677279,30.433073
+326,"2900-Sunridge-Dr,-Austin,-TX-78741",2900 Sunridge Dr,Austin,TX,78741,"2900 Sunridge Dr, Austin, TX 78741",Travis,-97.72628,30.22146
+327,"5605-Springdale-Rd,-Austin,-TX-78723",5605 Springdale Rd,Austin,TX,78723,"5605 Springdale Rd, Austin, TX 78723",Travis,-97.748701,30.171242
+328,"8617-Spicewood-Springs-Rd,-Austin,-TX-78759",8617 Spicewood Springs Rd,Austin,TX,78759,"8617 Spicewood Springs Rd, Austin, TX 78759",Williamson,-97.775106,30.434084
+329,"8519-Cahill-Dr,-Austin,-TX-78729",8519 Cahill Dr,Austin,TX,78729,"8519 Cahill Dr, Austin, TX 78729",Williamson,-97.773104,30.44403
+330,"8715-W-Hwy,-71,-Austin,-TX-78735",8715 W Hwy,Austin,TX,78735,"8715 W Hwy, 71, Austin, TX 78735",Travis,-97.898022,30.248494
+331,"4100-W-Slaughter-Ln,-Austin,-TX-78749",4100 W Slaughter Ln,Austin,TX,78749,"4100 W Slaughter Ln, Austin, TX 78749",Travis,-97.85551,30.189952
+332,"9900-Mcneil-Dr,-Austin,-TX-78750",9900 Mcneil Dr,Austin,TX,78750,"9900 Mcneil Dr, Austin, TX 78750",Travis,-97.832478,30.396143
+333,"7201-S-Congress-Ave,-Austin,-TX-78745",7201 S Congress Ave,Austin,TX,78745,"7201 S Congress Ave, Austin, TX 78745",Travis,-97.780556,30.186695
+334,"1300-Spyglass-Dr,-Austin,-TX-78746",1300 Spyglass Dr,Austin,TX,78746,"1300 Spyglass Dr, Austin, TX 78746",Travis,-97.787548,30.260584
+335,"8615-Rockwood-Ln,-Austin,-TX-78757",8615 Rockwood Ln,Austin,TX,78757,"8615 Rockwood Ln, Austin, TX 78757",Travis,-97.729579,30.368377
+336,"11011-Domain-Dr,-Austin,-TX-78758",11011 Domain Dr,Austin,TX,78758,"11011 Domain Dr, Austin, TX 78758",Travis,-97.72534,30.39654
+337,"815-W-Slaughter-Ln,-Austin,-TX-78748",815 W Slaughter Ln,Austin,TX,78748,"815 W Slaughter Ln, Austin, TX 78748",Travis County,-97.806842,30.172233
+338,"12118-Walnut-Park-Xing,-Austin,-TX-78753",12118 Walnut Park Xing,Austin,TX,78753,"12118 Walnut Park Xing, Austin, TX 78753",Travis,-97.675605,30.390747
+339,"8001-Highway,-71-W,-Austin,-TX-78736",8001 Highway,Austin,TX,78736,"8001 Highway, 71 W, Austin, TX 78736",Travis County,-97.885005,30.244458
+340,"10050-Great-Hills-Trl,-Austin,-TX-78759",10050 Great Hills Trl,Austin,TX,78759,"10050 Great Hills Trl, Austin, TX 78759",Travis,-97.741855,30.394498
+341,"2202-2204-Enfield-Rd,-Austin,-TX-78703",2202-2204 Enfield Rd,Austin,TX,78703,"2202-2204 Enfield Rd, Austin, TX 78703",Travis County,-97.76624,30.28762
+342,"1845-River-Crossing-Cir,-Austin,-TX-78741",1845 River Crossing Cir,Austin,TX,78741,"1845 River Crossing Cir, Austin, TX 78741",Travis,-97.712433,30.230324
+343,"201-Lavaca-St,-Austin,-TX-78701",201 Lavaca St,Austin,TX,78701,"201 Lavaca St, Austin, TX 78701",Travis,-97.746284,30.265301
+344,"5417-S-Mo-Pac-Expy,-Austin,-TX-78749",5417 S Mo Pac Expy,Austin,TX,78749,"5417 S Mo Pac Expy, Austin, TX 78749",Travis County,-97.824449,30.230507
+345,"2900-Manor-Rd,-Austin,-TX-78722",2900 Manor Rd,Austin,TX,78722,"2900 Manor Rd, Austin, TX 78722",Travis,-97.710566,30.28666
+346,"7200-Duval-St,-Austin,-TX-78752",7200 Duval St,Austin,TX,78752,"7200 Duval St, Austin, TX 78752",Travis County,-97.707324,30.334933
+347,"8405-Old-Bee-Caves-Rd,-Austin,-TX-78735",8405 Old Bee Caves Rd,Austin,TX,78735,"8405 Old Bee Caves Rd, Austin, TX 78735",Travis,-97.88784,30.250862
+348,"1127-Pearl-Retreat-Ln,-Austin,-TX-78753",1127 Pearl Retreat Ln,Austin,TX,78753,"1127 Pearl Retreat Ln, Austin, TX 78753",Travis,-97.651714,30.39348
+349,"12101-N-Lamar-Blvd,-Austin,-TX-78753",12101 N Lamar Blvd,Austin,TX,78753,"12101 N Lamar Blvd, Austin, TX 78753",Travis,-97.678959,30.395239
+350,"2310-Wickersham-Ln,-Austin,-TX-78741",2310 Wickersham Ln,Austin,TX,78741,"2310 Wickersham Ln, Austin, TX 78741",Travis,-97.72215,30.22923
+351,"1717-Toomey-Rd,-Austin,-TX-78704",1717 Toomey Rd,Austin,TX,78704,"1717 Toomey Rd, Austin, TX 78704",Travis,-97.762161,30.26444
+352,"3501-Shoreline-Dr,-Austin,-TX-78728",3501 Shoreline Dr,Austin,TX,78728,"3501 Shoreline Dr, Austin, TX 78728",Travis County,-97.68666,30.455183
+353,"1143-Shady-Ln,-Austin,-TX-78721",1143 Shady Ln,Austin,TX,78721,"1143 Shady Ln, Austin, TX 78721",Travis County,-97.688381,30.26068
+354,"14000-Renaissance-Ct,-Austin,-TX-78728",14000 Renaissance Ct,Austin,TX,78728,"14000 Renaissance Ct, Austin, TX 78728",Travis,-97.686533,30.4374
+355,"11301-Farrah-Ln,-Austin,-TX-78748",11301 Farrah Ln,Austin,TX,78748,"11301 Farrah Ln, Austin, TX 78748",Travis,-97.80077,30.14007
+356,"1521-Reagan-Hill-Dr,-Austin,-TX-78752",1521 Reagan Hill Dr,Austin,TX,78752,"1521 Reagan Hill Dr, Austin, TX 78752",Travis,-97.68943,30.325806
+357,"9301-Old-Bee-Caves-Rd,-Austin,-TX-78735",9301 Old Bee Caves Rd,Austin,TX,78735,"9301 Old Bee Caves Rd, Austin, TX 78735",Travis,-97.902608,30.258783
+358,"12820-N-Lamar-Blvd,-Austin,-TX-78753",12820 N Lamar Blvd,Austin,TX,78753,"12820 N Lamar Blvd, Austin, TX 78753",Travis,-97.678513,30.414486
+359,"13201-Legendary-Dr,-Austin,-TX-78727",13201 Legendary Dr,Austin,TX,78727,"13201 Legendary Dr, Austin, TX 78727",Travis,-97.73192,30.43803
+360,"4716-Duval-Rd,-Austin,-TX-78727",4716 Duval Rd,Austin,TX,78727,"4716 Duval Rd, Austin, TX 78727",Travis,-97.735741,30.415579
+361,"2126-Goodrich-Ave,-Austin,-TX-78704",2126 Goodrich Ave,Austin,TX,78704,"2126 Goodrich Ave, Austin, TX 78704",Travis County,-97.773939,30.248253
+362,"5705-Diehl-Trl,-Austin,-TX-78727",5705 Diehl Trl,Austin,TX,78727,"5705 Diehl Trl, Austin, TX 78727",Travis,-97.74155,30.434874
+363,"507-Pressler-St,-Austin,-TX-78703",507 Pressler St,Austin,TX,78703,"507 Pressler St, Austin, TX 78703",Travis,-97.76,30.27282
+364,"11500-Jollyville-Rd,-Austin,-TX-78759",11500 Jollyville Rd,Austin,TX,78759,"11500 Jollyville Rd, Austin, TX 78759",Travis,-97.749674,30.414462
+365,"5020-Manor-Rd,-Austin,-TX-78723",5020 Manor Rd,Austin,TX,78723,"5020 Manor Rd, Austin, TX 78723",Travis,-97.68753,30.29792
+366,"9009-N-Fm-620-Rd,-Austin,-TX-78726",9009 N Fm 620 Rd,Austin,TX,78726,"9009 N Fm 620 Rd, Austin, TX 78726",Travis,-97.840652,30.432293
+367,"3101-Wells-Branch-Pkwy,-Austin,-TX-78728",3101 Wells Branch Pkwy,Austin,TX,78728,"3101 Wells Branch Pkwy, Austin, TX 78728",Travis,-97.694018,30.439961
+368,"1401-Saint-Edwards-Dr,-Austin,-TX-78704",1401 Saint Edwards Dr,Austin,TX,78704,"1401 Saint Edwards Dr, Austin, TX 78704",Travis,-97.747213,30.22786
+369,"304-E-William-Cannon-Dr,-Austin,-TX-78745",304 E William Cannon Dr,Austin,TX,78745,"304 E William Cannon Dr, Austin, TX 78745",Travis County,-97.775959,30.193381
+370,"3101-Shoreline-Dr,-Austin,-TX-78728",3101 Shoreline Dr,Austin,TX,78728,"3101 Shoreline Dr, Austin, TX 78728",Travis,-97.68389,30.45401
+371,"12100-Metric-Blvd,-Austin,-TX-78758",12100 Metric Blvd,Austin,TX,78758,"12100 Metric Blvd, Austin, TX 78758",Travis,-97.700555,30.404135
+372,"600-Barwood-Park,-Austin,-TX-78753",600 Barwood Park,Austin,TX,78753,"600 Barwood Park, Austin, TX 78753",Travis,-97.696015,30.350587
+373,"1909-Rio-Grande-St,-Austin,-TX-78705",1909 Rio Grande St,Austin,TX,78705,"1909 Rio Grande St, Austin, TX 78705",Travis County,-97.744799,30.283703
+374,"3400-Ranch-Rd,-620-S,-Austin,-TX-78738",3400 Ranch Rd,Austin,TX,78738,"3400 Ranch Rd, 620 S, Austin, TX 78738",Travis,-97.963466,30.325487
+375,"1630-E-6th-St,-Austin,-TX-78702",1630 E 6th St,Austin,TX,78702,"1630 E 6th St, Austin, TX 78702",Travis,-97.724549,30.26265
+376,"2810-Hemphill-Park,-Austin,-TX-78705",2810 Hemphill Park,Austin,TX,78705,"2810 Hemphill Park, Austin, TX 78705",Travis,-97.74126,30.29348
+377,"3201-Duval-Rd,-Austin,-TX-78759",3201 Duval Rd,Austin,TX,78759,"3201 Duval Rd, Austin, TX 78759",Travis,-97.719928,30.408985
+378,"4310-Ave-B,-Austin,-TX-78751",4310 Ave B,Austin,TX,78751,"4310 Ave B, Austin, TX 78751",Travis,-97.732386,30.308579
+379,"10301-Burnet-Rd,-Austin,-TX-78758",10301 Burnet Rd,Austin,TX,78758,"10301 Burnet Rd, Austin, TX 78758",Travis,-97.721821,30.386255
+380,"5400-N-Lamar-Blvd,-Austin,-TX-78751",5400 N Lamar Blvd,Austin,TX,78751,"5400 N Lamar Blvd, Austin, TX 78751",Travis,-97.72922,30.32249
+381,"2425-Cromwell-Cir,-Austin,-TX-78741",2425 Cromwell Cir,Austin,TX,78741,"2425 Cromwell Cir, Austin, TX 78741",Travis,-97.722385,30.225615
+382,"2430-Cromwell-Cir,-Austin,-TX-78741",2430 Cromwell Cir,Austin,TX,78741,"2430 Cromwell Cir, Austin, TX 78741",Travis,-97.72042,30.22721
+383,"12435-Dessau-Rd,-Austin,-TX-78754",12435 Dessau Rd,Austin,TX,78754,"12435 Dessau Rd, Austin, TX 78754",Travis County,-97.644064,30.387948
+384,"1000-E-5th-St,-Austin,-TX-78702",1000 E 5th St,Austin,TX,78702,"1000 E 5th St, Austin, TX 78702",Travis,-97.732199,30.264531
+385,"1901-Onion-Creek-Pkwy,-Austin,-TX-78748",1901 Onion Creek Pkwy,Austin,TX,78748,"1901 Onion Creek Pkwy, Austin, TX 78748",Travis,-97.803248,30.136809
+386,"10015-Lake-Creek-Pkwy,-Austin,-TX-78729",10015 Lake Creek Pkwy,Austin,TX,78729,"10015 Lake Creek Pkwy, Austin, TX 78729",Williamson,-97.786581,30.466927
+387,"12000-Dessau-Rd,-Austin,-TX-78754",12000 Dessau Rd,Austin,TX,78754,"12000 Dessau Rd, Austin, TX 78754",Travis,-97.655032,30.380452
+388,"3505-S-Lamar-Blvd,-Austin,-TX-78704",3505 S Lamar Blvd,Austin,TX,78704,"3505 S Lamar Blvd, Austin, TX 78704",Travis,-97.786473,30.239288
+389,"8225-N-Fm-620-Rd,-Austin,-TX-78726",8225 N Fm 620 Rd,Austin,TX,78726,"8225 N Fm 620 Rd, Austin, TX 78726",Travis,-97.84321,30.41945
+390,"1915-Wells-Branch-Pkwy,-Austin,-TX-78728",1915 Wells Branch Pkwy,Austin,TX,78728,"1915 Wells Branch Pkwy, Austin, TX 78728",Travis,-97.68079,30.433986
+391,"12638-Ridgeline-Blvd,-Austin,-TX-78613",12638 Ridgeline Blvd,Austin,TX,78613,"12638 Ridgeline Blvd, Austin, TX 78613",Williamson,-97.80981,30.46502
+392,"3600-Greystone-Dr,-Austin,-TX-78731",3600 Greystone Dr,Austin,TX,78731,"3600 Greystone Dr, Austin, TX 78731",Travis,-97.751428,30.359847
+393,"5708-W-Parmer-Ln,-Austin,-TX-78727",5708 W Parmer Ln,Austin,TX,78727,"5708 W Parmer Ln, Austin, TX 78727",Travis,-97.73739,30.43925
+394,"1215-Slaughter-Ln-W,-Austin,-TX-78748",1215 Slaughter Ln W,Austin,TX,78748,"1215 Slaughter Ln W, Austin, TX 78748",Travis County,-97.814006,30.170856
+395,"10727-Domain-Dr,-Austin,-TX-78758",10727 Domain Dr,Austin,TX,78758,"10727 Domain Dr, Austin, TX 78758",Travis,-97.725653,30.393939
+396,"10505-S-Interstate-Hwy,-35,-Austin,-TX-78747",10505 S Interstate Hwy,Austin,TX,78747,"10505 S Interstate Hwy, 35, Austin, TX 78747",Travis County,-97.790555,30.149099
+397,"833-Fairfield-Dr,-Austin,-TX-78758",833 Fairfield Dr,Austin,TX,78758,"833 Fairfield Dr, Austin, TX 78758",Travis,-97.705142,30.356087
+398,"4520-Bennett-Ave,-Austin,-TX-78751",4520 Bennett Ave,Austin,TX,78751,"4520 Bennett Ave, Austin, TX 78751",Travis,-97.717437,30.305022
+399,"12041-Dessau-Rd,-Austin,-TX-78754",12041 Dessau Rd,Austin,TX,78754,"12041 Dessau Rd, Austin, TX 78754",Travis,-97.650163,30.379735
+400,"11210-FM-2222,-Austin,-TX-78730",11210 FM 2222,Austin,TX,78730,"11210 FM 2222, Austin, TX 78730",Travis,-97.850565,30.400012
+401,"4505-Duval-St,-Austin,-TX-78751",4505 Duval St,Austin,TX,78751,"4505 Duval St, Austin, TX 78751",Travis,-97.723464,30.307422
+402,"1801-Fortview-Rd,-Austin,-TX-78704",1801 Fortview Rd,Austin,TX,78704,"1801 Fortview Rd, Austin, TX 78704",Travis,-97.785706,30.229807
+403,"1900-Onion-Creek-Pkwy,-Austin,-TX-78748",1900 Onion Creek Pkwy,Austin,TX,78748,"1900 Onion Creek Pkwy, Austin, TX 78748",Travis,-97.801548,30.139759
+404,"300-Ferguson-Dr,-Austin,-TX-78753",300 Ferguson Dr,Austin,TX,78753,"300 Ferguson Dr, Austin, TX 78753",Travis,-97.685042,30.377378
+405,"5010-S-Congress-Ave,-Austin,-TX-78745",5010 S Congress Ave,Austin,TX,78745,"5010 S Congress Ave, Austin, TX 78745",Travis,-97.773435,30.210024
+406,"6280-Mcneil-Ranch-Dr,-Austin,-TX-78729",6280 Mcneil Ranch Dr,Austin,TX,78729,"6280 Mcneil Ranch Dr, Austin, TX 78729",Travis County,-97.749397,30.442788
+407,"2900-Century-Park-Blvd,-Austin,-TX-78727",2900 Century Park Blvd,Austin,TX,78727,"2900 Century Park Blvd, Austin, TX 78727",Travis,-97.694654,30.435029
+408,"4800-Steiner-Ranch-Blvd,-Austin,-TX-78732",4800 Steiner Ranch Blvd,Austin,TX,78732,"4800 Steiner Ranch Blvd, Austin, TX 78732",Travis,-97.873607,30.383761
+409,"1620-E-Riverside-Dr,-Austin,-TX-78741",1620 E Riverside Dr,Austin,TX,78741,"1620 E Riverside Dr, Austin, TX 78741",Travis,-97.73035,30.24538
+410,"15433-FM-1325,-Austin,-TX-78728",15433 FM 1325,Austin,TX,78728,"15433 FM 1325, Austin, TX 78728",Williamson County,-97.691804,30.462413
+411,"14745-Merriltown-Rd,-Austin,-TX-78728",14745 Merriltown Rd,Austin,TX,78728,"14745 Merriltown Rd, Austin, TX 78728",Travis,-97.69152,30.45054
+412,"9520-9521-Spectrum-Dr,-Austin,-TX-78717",9520-9521 Spectrum Dr,Austin,TX,78717,"9520-9521 Spectrum Dr, Austin, TX 78717",Williamson County,-97.76875,30.48162
+413,"8800-Highway,-290-W,-Austin,-TX-78736",8800 Highway,Austin,TX,78736,"8800 Highway, 290 W, Austin, TX 78736",Travis,-97.91839,30.23515
+414,"6855-E-Hwy,-290,-Austin,-TX-78723",6855 E Hwy,Austin,TX,78723,"6855 E Hwy, 290, Austin, TX 78723",Travis,-97.687437,30.320212
+415,"614-S-1st-St,-Austin,-TX-78704",614 S 1st St,Austin,TX,78704,"614 S 1st St, Austin, TX 78704",Travis,-97.752072,30.25708
+416,"12113-Metric-Blvd,-Austin,-TX-78758",12113 Metric Blvd,Austin,TX,78758,"12113 Metric Blvd, Austin, TX 78758",Travis,-97.696793,30.402902
+417,"13401-Metric-Blvd,-Austin,-TX-78727",13401 Metric Blvd,Austin,TX,78727,"13401 Metric Blvd, Austin, TX 78727",Travis,-97.679314,30.422779
+418,"4821-Riverside-Dr-E,-Austin,-TX-78741",4821 Riverside Dr E,Austin,TX,78741,"4821 Riverside Dr E, Austin, TX 78741",Travis County,-97.718314,30.230565
+419,"2101-W-Anderson-Ln,-Austin,-TX-78757",2101 W Anderson Ln,Austin,TX,78757,"2101 W Anderson Ln, Austin, TX 78757",Travis,-97.728542,30.353579
+420,"7201-Hart-Ln,-Austin,-TX-78731",7201 Hart Ln,Austin,TX,78731,"7201 Hart Ln, Austin, TX 78731",Travis,-97.754627,30.355744
+421,"701-Center-Ridge-Dr,-Austin,-TX-78753",701 Center Ridge Dr,Austin,TX,78753,"701 Center Ridge Dr, Austin, TX 78753",Travis,-97.668751,30.412667
+422,"5005-Manor-Rd,-Austin,-TX-78723",5005 Manor Rd,Austin,TX,78723,"5005 Manor Rd, Austin, TX 78723",Travis,-97.687,30.297197
+423,"10127-Middle-Fiskville-Rd,-Austin,-TX-78753",10127 Middle Fiskville Rd,Austin,TX,78753,"10127 Middle Fiskville Rd, Austin, TX 78753",Travis,-97.68169,30.36427
+424,"3503-Speedway,-Austin,-TX-78705",3503 Speedway,Austin,TX,78705,"3503 Speedway, Austin, TX 78705",Travis County,-97.73393,30.29961
+425,"1701-Oak-Hill-Ln,-Austin,-TX-78744",1701 Oak Hill Ln,Austin,TX,78744,"1701 Oak Hill Ln, Austin, TX 78744",Travis,-97.784483,30.163971
+426,"1088-Park-Plaza-Dr,-Austin,-TX-78753",1088 Park Plaza Dr,Austin,TX,78753,"1088 Park Plaza Dr, Austin, TX 78753",Travis County,-97.683948,30.348766
+427,"1300-E-Riverside-Dr,-Austin,-TX-78741",1300 E Riverside Dr,Austin,TX,78741,"1300 E Riverside Dr, Austin, TX 78741",Travis,-97.73397,30.24842
+428,"409-E-William-Cannon-Dr,-Austin,-TX-78745",409 E William Cannon Dr,Austin,TX,78745,"409 E William Cannon Dr, Austin, TX 78745",Travis,-97.775547,30.19093
+429,"1200-1201-Broadmoor-Dr,-Austin,-TX-78723",1200-1201 Broadmoor Dr,Austin,TX,78723,"1200-1201 Broadmoor Dr, Austin, TX 78723",Travis County,-97.70569,30.31071
+430,"3300-Parker-Ln,-Austin,-TX-78741",3300 Parker Ln,Austin,TX,78741,"3300 Parker Ln, Austin, TX 78741",Travis,-97.743974,30.222505
+431,"11600-11634-Argonne-Forest-Trl,-Austin,-TX-78759",11600-11634 Argonne Forest Trl,Austin,TX,78759,"11600-11634 Argonne Forest Trl, Austin, TX 78759",Travis County,-97.76466,30.42999
+432,"3100-Kramer-Ln,-Austin,-TX-78758",3100 Kramer Ln,Austin,TX,78758,"3100 Kramer Ln, Austin, TX 78758",Travis,-97.724287,30.397011
+433,"801-Sugaree-Ave,-Austin,-TX-78757",801 Sugaree Ave,Austin,TX,78757,"801 Sugaree Ave, Austin, TX 78757",Travis,-97.717824,30.341027
+434,"4711-E-Riverside-Dr,-Austin,-TX-78741",4711 E Riverside Dr,Austin,TX,78741,"4711 E Riverside Dr, Austin, TX 78741",Travis,-97.719605,30.231049
+435,"1901-E-Anderson-Ln,-Austin,-TX-78752",1901 E Anderson Ln,Austin,TX,78752,"1901 E Anderson Ln, Austin, TX 78752",Travis,-97.67934,30.327361
+436,"739-William-Cannon-Dr-W,-Austin,-TX-78745",739 William Cannon Dr W,Austin,TX,78745,"739 William Cannon Dr W, Austin, TX 78745",Travis County,-97.790089,30.197265
+437,"4320-Congress-Ave-S,-Austin,-TX-78745",4320 Congress Ave S,Austin,TX,78745,"4320 Congress Ave S, Austin, TX 78745",Travis County,-97.768316,30.219536
+438,"10101-W-Parmer-Ln,-Austin,-TX-78717",10101 W Parmer Ln,Austin,TX,78717,"10101 W Parmer Ln, Austin, TX 78717",Williamson,-97.773685,30.488732
+439,"1804-W-Rundberg-Ln,-Austin,-TX-78758",1804 W Rundberg Ln,Austin,TX,78758,"1804 W Rundberg Ln, Austin, TX 78758",Travis,-97.71365,30.372482
+440,"7700-N-Capital-Of-Texas-Hwy,-Austin,-TX-78731",7700 N Capital Of Texas Hwy,Austin,TX,78731,"7700 N Capital Of Texas Hwy, Austin, TX 78731",Travis,-97.781758,30.377042
+441,"3801-S-Congress-Ave,-Austin,-TX-78704",3801 S Congress Ave,Austin,TX,78704,"3801 S Congress Ave, Austin, TX 78704",Travis County,-97.761423,30.225706
+442,"125-Woodward-St,-Austin,-TX-78704",125 Woodward St,Austin,TX,78704,"125 Woodward St, Austin, TX 78704",Travis,-97.759367,30.228524
+443,"8505-8525-Shoal-Creek-Blvd,-Austin,-TX-78757",8505-8525 Shoal Creek Blvd,Austin,TX,78757,"8505-8525 Shoal Creek Blvd, Austin, TX 78757",Travis County,-97.73715,30.37074
+444,"10001-S-1st-St,-Austin,-TX-78748",10001 S 1st St,Austin,TX,78748,"10001 S 1st St, Austin, TX 78748",Travis,-97.797489,30.160349
+445,"3200-S-1st-St,-Austin,-TX-78704",3200 S 1st St,Austin,TX,78704,"3200 S 1st St, Austin, TX 78704",Travis,-97.767153,30.233817
+446,"609-Clayton-Ln,-Austin,-TX-78752",609 Clayton Ln,Austin,TX,78752,"609 Clayton Ln, Austin, TX 78752",Travis,-97.71372,30.32363
+447,"13635-Rutledge-Spur,-Austin,-TX-78717",13635 Rutledge Spur,Austin,TX,78717,"13635 Rutledge Spur, Austin, TX 78717",Williamson County,-97.780429,30.476221
+448,"744-W-William-Cannon-Dr,-Austin,-TX-78745",744 W William Cannon Dr,Austin,TX,78745,"744 W William Cannon Dr, Austin, TX 78745",Travis,-97.789468,30.198572
+449,"4021-Steck-Ave,-Austin,-TX-78759",4021 Steck Ave,Austin,TX,78759,"4021 Steck Ave, Austin, TX 78759",Travis,-97.754392,30.37296
+450,"8200-8220-Research-Blvd,-Austin,-TX-78758",8200-8220 Research Blvd,Austin,TX,78758,"8200-8220 Research Blvd, Austin, TX 78758",Travis County,-97.71593,30.35553
+451,"2900-S-1st-St,-Austin,-TX-78704",2900 S 1st St,Austin,TX,78704,"2900 S 1st St, Austin, TX 78704",Travis,-97.763809,30.236689
+452,"12800-Harrisglenn-Dr,-Austin,-TX-78753",12800 Harrisglenn Dr,Austin,TX,78753,"12800 Harrisglenn Dr, Austin, TX 78753",Travis,-97.653681,30.40156
+453,"1711-Rutland-Dr,-Austin,-TX-78758",1711 Rutland Dr,Austin,TX,78758,"1711 Rutland Dr, Austin, TX 78758",Travis,-97.712795,30.374429
+454,"4306-N-Quinlan-Park-Rd,-Austin,-TX-78732",4306 N Quinlan Park Rd,Austin,TX,78732,"4306 N Quinlan Park Rd, Austin, TX 78732",Travis,-97.889298,30.385784
+455,"9500-Alice-Mae-Ln,-Austin,-TX-78748",9500 Alice Mae Ln,Austin,TX,78748,"9500 Alice Mae Ln, Austin, TX 78748",Travis,-97.795486,30.164555
+456,"8071-N-Lamar-Blvd,-Austin,-TX-78753",8071 N Lamar Blvd,Austin,TX,78753,"8071 N Lamar Blvd, Austin, TX 78753",Travis,-97.709787,30.347723
+457,"1630-Rutland-Dr,-Austin,-TX-78758",1630 Rutland Dr,Austin,TX,78758,"1630 Rutland Dr, Austin, TX 78758",Travis,-97.712407,30.373263
+458,"4603-Todds-Farm,-San-Antonio,-TX-78244",4603 Todds Farm,San Antonio,TX,78244,"4603 Todds Farm, San Antonio, TX 78244",Bexar,-98.369883,29.470135
+459,"500-Tomar-Dr,-San-Antonio,-TX-78227",500 Tomar Dr,San Antonio,TX,78227,"500 Tomar Dr, San Antonio, TX 78227",Bexar County,-98.652375,29.401510000000002
+460,"3787-Perrin-Central-Blvd,-San-Antonio,-TX-78217",3787 Perrin Central Blvd,San Antonio,TX,78217,"3787 Perrin Central Blvd, San Antonio, TX 78217",Bexar,-98.4158,29.535831
+461,"17715-Overlook-Loop,-San-Antonio,-TX-78259",17715 Overlook Loop,San Antonio,TX,78259,"17715 Overlook Loop, San Antonio, TX 78259",Bexar,-98.422497,29.603871
+462,"1540-W-Bitters-Rd,-San-Antonio,-TX-78248",1540 W Bitters Rd,San Antonio,TX,78248,"1540 W Bitters Rd, San Antonio, TX 78248",Bexar,-98.521434,29.583171
+463,"4620-Thousand-Oaks-Dr,-San-Antonio,-TX-78233",4620 Thousand Oaks Dr,San Antonio,TX,78233,"4620 Thousand Oaks Dr, San Antonio, TX 78233",Bexar,-98.399649,29.54334
+464,"7110-Wurzbach-Rd,-San-Antonio,-TX-78240",7110 Wurzbach Rd,San Antonio,TX,78240,"7110 Wurzbach Rd, San Antonio, TX 78240",Bexar,-98.586663,29.500752
+465,"7750-Culebra-Rd,-San-Antonio,-TX-78251",7750 Culebra Rd,San Antonio,TX,78251,"7750 Culebra Rd, San Antonio, TX 78251",Bexar,-98.642167,29.460241
+466,"7733-Louis-Pasteur-Dr,-San-Antonio,-TX-78229",7733 Louis Pasteur Dr,San Antonio,TX,78229,"7733 Louis Pasteur Dr, San Antonio, TX 78229",Bexar,-98.569415,29.509664
+467,"7314-Oak-Manor-Dr,-San-Antonio,-TX-78229",7314 Oak Manor Dr,San Antonio,TX,78229,"7314 Oak Manor Dr, San Antonio, TX 78229",Bexar County,-98.574431,29.501632
+468,"2519-Broadway-St,-San-Antonio,-TX-78215",2519 Broadway St,San Antonio,TX,78215,"2519 Broadway St, San Antonio, TX 78215",Bexar County,-98.474757,29.450354
+469,"7811-Chambers-Rd,-San-Antonio,-TX-78229",7811 Chambers Rd,San Antonio,TX,78229,"7811 Chambers Rd, San Antonio, TX 78229",Bexar,-98.563674,29.509479
+470,"12200-W-Interstate-10,-San-Antonio,-TX-78230",12200 W Interstate 10,San Antonio,TX,78230,"12200 W Interstate 10, San Antonio, TX 78230",Bexar,-98.590134,29.557178
+471,"400-W-Bitters-Rd,-San-Antonio,-TX-78216",400 W Bitters Rd,San Antonio,TX,78216,"400 W Bitters Rd, San Antonio, TX 78216",Bexar,-98.48922,29.568793
+472,"11146-Vance-Jackson-Rd,-San-Antonio,-TX-78230",11146 Vance Jackson Rd,San Antonio,TX,78230,"11146 Vance Jackson Rd, San Antonio, TX 78230",Bexar,-98.555681,29.546055
+473,"3629-Medical-Dr,-San-Antonio,-TX-78229",3629 Medical Dr,San Antonio,TX,78229,"3629 Medical Dr, San Antonio, TX 78229",Bexar,-98.558483,29.523788
+474,"12910-Clubhouse-Blvd,-San-Antonio,-TX-78221",12910 Clubhouse Blvd,San Antonio,TX,78221,"12910 Clubhouse Blvd, San Antonio, TX 78221",Bexar,-98.475091,29.298314
+475,"Alamo-Ranch-Pkwy---1604-And-Loop,-San-Antonio,-TX-78253",Alamo Ranch Pkwy # 1604 And Loop,San Antonio,TX,78253,"Alamo Ranch Pkwy # 1604 And Loop, San Antonio, TX 78253",Bexar County,-98.72235,29.4853
+476,"2906-Woodcliffe-St,-San-Antonio,-TX-78230",2906 Woodcliffe St,San Antonio,TX,78230,"2906 Woodcliffe St, San Antonio, TX 78230",Bexar,-98.540076,29.514092
+477,"4515-Gardendale-St,-San-Antonio,-TX-78240",4515 Gardendale St,San Antonio,TX,78240,"4515 Gardendale St, San Antonio, TX 78240",Bexar,-98.571662,29.524828
+478,"6419-N-Vandiver-Rd,-San-Antonio,-TX-78209",6419 N Vandiver Rd,San Antonio,TX,78209,"6419 N Vandiver Rd, San Antonio, TX 78209",Bexar,-98.443265,29.486752
+479,"3231-Loop,-1604---1604W,-San-Antonio,-TX-78257",3231 Loop,San Antonio,TX,78257,"3231 Loop, 1604 # 1604W, San Antonio, TX 78257",Bexar,-98.54635,29.60305
+480,"5315-Fredericksburg-Rd,-San-Antonio,-TX-78229",5315 Fredericksburg Rd,San Antonio,TX,78229,"5315 Fredericksburg Rd, San Antonio, TX 78229",Bexar,-98.564054,29.504336
+481,"3538-Puesta-De-Sol,-San-Antonio,-TX-78261",3538 Puesta De Sol,San Antonio,TX,78261,"3538 Puesta De Sol, San Antonio, TX 78261",Bexar,-98.426225,29.661748
+482,"6400-Wurzbach-Rd,-San-Antonio,-TX-78240",6400 Wurzbach Rd,San Antonio,TX,78240,"6400 Wurzbach Rd, San Antonio, TX 78240",Bexar,-98.59706,29.490850000000002
+483,"1935-Broken-Oak-St,-San-Antonio,-TX-78232",1935 Broken Oak St,San Antonio,TX,78232,"1935 Broken Oak St, San Antonio, TX 78232",Bexar County,-98.463592,29.590172
+484,"6222-S-New-Braunfels-Ave,-San-Antonio,-TX-78223",6222 S New Braunfels Ave,San Antonio,TX,78223,"6222 S New Braunfels Ave, San Antonio, TX 78223",Bexar,-98.45684,29.36471
+485,"5650-Grissom-Rd,-San-Antonio,-TX-78238",5650 Grissom Rd,San Antonio,TX,78238,"5650 Grissom Rd, San Antonio, TX 78238",Bexar,-98.62352,29.486466
+486,"223-Brackenridge-Ave,-San-Antonio,-TX-78209",223 Brackenridge Ave,San Antonio,TX,78209,"223 Brackenridge Ave, San Antonio, TX 78209",Bexar,-98.468832,29.452374
+487,"9939-Fredericksburg-Rd,-San-Antonio,-TX-78240",9939 Fredericksburg Rd,San Antonio,TX,78240,"9939 Fredericksburg Rd, San Antonio, TX 78240",Bexar,-98.578652,29.534924
+488,"6014-Blanco-Rd,-San-Antonio,-TX-78216",6014 Blanco Rd,San Antonio,TX,78216,"6014 Blanco Rd, San Antonio, TX 78216",Bexar County,-98.506325,29.511221
+489,"254-Cloverleaf-Ave,-Apt-4,-San-Antonio,-TX-78209",254 Cloverleaf Ave,San Antonio,TX,78209,"254 Cloverleaf Ave, Apt 4, San Antonio, TX 78209",Bexar,-98.461858,29.486729
+490,"1835-Lockhill-Selma-Rd,-San-Antonio,-TX-78213",1835 Lockhill Selma Rd,San Antonio,TX,78213,"1835 Lockhill Selma Rd, San Antonio, TX 78213",Bexar,-98.521863,29.53742
+491,"16333-Vance-Jackson-Rd,-San-Antonio,-TX-78257",16333 Vance Jackson Rd,San Antonio,TX,78257,"16333 Vance Jackson Rd, San Antonio, TX 78257",Bexar,-98.591591,29.595938
+492,"2551-Cincinnati-Ave,-San-Antonio,-TX-78228",2551 Cincinnati Ave,San Antonio,TX,78228,"2551 Cincinnati Ave, San Antonio, TX 78228",Bexar,-98.558076,29.453044
+493,"3926-Woodbridge-Way,-San-Antonio,-TX-78257",3926 Woodbridge Way,San Antonio,TX,78257,"3926 Woodbridge Way, San Antonio, TX 78257",Bexar,-98.559372,29.604178
+494,"137-E-Norwood-Ct,-Apt-3,-San-Antonio,-TX-78212",137 E Norwood Ct,San Antonio,TX,78212,"137 E Norwood Ct, Apt 3, San Antonio, TX 78212",Bexar,-98.49256,29.468197
+495,"25138-Summit-Crk,-San-Antonio,-TX-78258",25138 Summit Crk,San Antonio,TX,78258,"25138 Summit Crk, San Antonio, TX 78258",Bexar,-98.496254,29.64673
+496,"8130-Sunshine-Trail-Dr,-San-Antonio,-TX-78244",8130 Sunshine Trail Dr,San Antonio,TX,78244,"8130 Sunshine Trail Dr, San Antonio, TX 78244",Bexar,-98.329636,29.49654
+497,"112111-Saratoga-Coach,-San-Antonio,-TX-78254",112111 Saratoga Coach,San Antonio,TX,78254,"112111 Saratoga Coach, San Antonio, TX 78254",Bexar,-98.714681,29.509547
+498,"8523-Spicewood-Bnd,-San-Antonio,-TX-78255",8523 Spicewood Bnd,San Antonio,TX,78255,"8523 Spicewood Bnd, San Antonio, TX 78255",Bexar,-98.654035,29.66843
+499,"8000-8012-Aeromedical-Rd,-San-Antonio,-TX-78235",8000-8012 Aeromedical Rd,San Antonio,TX,78235,"8000-8012 Aeromedical Rd, San Antonio, TX 78235",Bexar County,-98.44926,29.34386
